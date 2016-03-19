@@ -142,6 +142,14 @@ pre {
   .icon > svg path {
     fill: #828282; }
 
+/* From https://simplesharingbuttons.com/ */
+ul.share-buttons {
+  list-style: none;
+  padding: 0; }
+
+ul.share-buttons li {
+  display: inline; }
+
 /**
  * Site header
  */
