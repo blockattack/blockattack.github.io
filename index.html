@@ -89,6 +89,49 @@ Welcome to the Block Attack - Rise of the Blocks Homepage, another open source S
   <ul class="post-list">
     
       <li>
+        <span class="post-meta">Mar 20, 2016</span>
+
+        <h2>
+          <a class="post-link" href="/2016/03/20/preview_of_2_0_0_as_of_2016_03_20.html">Preview of 2.0.0 as of 2016-03-20</a>
+        </h2>
+	<p><em>TLDR: There is a preview version that are likely better for you.</em></p>
+
+<p>The first version of Block Attack - Rise of the Blocks was released back in 2005.
+This is now more than 10 years ago. Back then I did not have the knowledge and experience that I have today.</p>
+
+<p>As many other programmers have thought: “This is too hard to maintain. I’ll just scratch it and start over”. <br />
+However that is not so simple. As Joel Spolsky writes in his <a href="http://www.joelonsoftware.com/articles/fog0000000069.html">“Things You Should Never Do, Part I”</a>: That the single biggest mistake you can do is to rewrite code from scratch.
+Rewriting from scratch may give you better code but you are also throwing out a working system and all the lessens learned from it.</p>
+
+<p>So instead I have been attacking and refactoring the bad parts of the game.<br />
+The code have been split into smaller pieces or packed behind an interface layer that I can manage.</p>
+
+<p>There were some things that I had to cut out for the time being.<br />
+Both the old net code and the replay functionality was “hacked” into the game. They had to go.<br />
+The old mouse play function was not done with touch in mind. It had to go too.<br />
+Game controllers must now be supported by SDL2</p>
+
+<p>The SDL library have been updated from SDL1.2 to SDL2. I must admit that I was about giving up several times while rewriting that.</p>
+
+<p>I want to reintroduce those things gain but I’ll rather release often once I have something that most people will consider better.</p>
+
+<p>Because the 2.0.0 version is already better in many ways:</p>
+
+<ul>
+  <li>It has a keyboard and game controller friendly menu system.</li>
+  <li>It runs significantly faster on most systems.</li>
+  <li>It supports international characters.</li>
+</ul>
+
+<p>Screen shot of the new keyboard and game controller friendly menu:<br />
+<a href="http://www.blockattack.net/images/blockattack2_menu_2016-03-20_14-30-11.png"><img src="http://www.blockattack.net/images/blockattack2_menu_2016-03-20_14-30-11_thump.png" alt="Screenshot" border="0" /></a></p>
+
+<p>The source can be downloaded here: <a href="https://github.com/blockattack/blockattack-game/archive/v.2.0.0-SNAPSHOT-2016-03-20.tar.gz">Source code</a><br />
+A Windows installer can be downloaded here: <a href="https://github.com/blockattack/blockattack-game/releases/download/v.2.0.0-SNAPSHOT-2016-03-20/blockattack-2.0.0-SNAPSHOT-2016-03-20.exe">Windows installer</a></p>
+
+      </li>
+    
+      <li>
         <span class="post-meta">Sep 11, 2014</span>
 
         <h2>

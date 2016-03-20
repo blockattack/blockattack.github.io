@@ -6,9 +6,53 @@
 </description>
     <link>http://www.blockattack.net/</link>
     <atom:link href="http://www.blockattack.net/feed.xml" rel="self" type="application/rss+xml"/>
-    <pubDate>Sun, 20 Mar 2016 09:55:23 +0100</pubDate>
-    <lastBuildDate>Sun, 20 Mar 2016 09:55:23 +0100</lastBuildDate>
+    <pubDate>Sun, 20 Mar 2016 14:39:51 +0100</pubDate>
+    <lastBuildDate>Sun, 20 Mar 2016 14:39:51 +0100</lastBuildDate>
     <generator>Jekyll v3.1.2</generator>
+    
+      <item>
+        <title>Preview of 2.0.0 as of 2016-03-20</title>
+        <description>&lt;p&gt;&lt;em&gt;TLDR: There is a preview version that are likely better for you.&lt;/em&gt;&lt;/p&gt;
+
+&lt;p&gt;The first version of Block Attack - Rise of the Blocks was released back in 2005.
+This is now more than 10 years ago. Back then I did not have the knowledge and experience that I have today.&lt;/p&gt;
+
+&lt;p&gt;As many other programmers have thought: “This is too hard to maintain. I’ll just scratch it and start over”. &lt;br /&gt;
+However that is not so simple. As Joel Spolsky writes in his &lt;a href=&quot;http://www.joelonsoftware.com/articles/fog0000000069.html&quot;&gt;“Things You Should Never Do, Part I”&lt;/a&gt;: That the single biggest mistake you can do is to rewrite code from scratch.
+Rewriting from scratch may give you better code but you are also throwing out a working system and all the lessens learned from it.&lt;/p&gt;
+
+&lt;p&gt;So instead I have been attacking and refactoring the bad parts of the game.&lt;br /&gt;
+The code have been split into smaller pieces or packed behind an interface layer that I can manage.&lt;/p&gt;
+
+&lt;p&gt;There were some things that I had to cut out for the time being.&lt;br /&gt;
+Both the old net code and the replay functionality was “hacked” into the game. They had to go.&lt;br /&gt;
+The old mouse play function was not done with touch in mind. It had to go too.&lt;br /&gt;
+Game controllers must now be supported by SDL2&lt;/p&gt;
+
+&lt;p&gt;The SDL library have been updated from SDL1.2 to SDL2. I must admit that I was about giving up several times while rewriting that.&lt;/p&gt;
+
+&lt;p&gt;I want to reintroduce those things gain but I’ll rather release often once I have something that most people will consider better.&lt;/p&gt;
+
+&lt;p&gt;Because the 2.0.0 version is already better in many ways:&lt;/p&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;It has a keyboard and game controller friendly menu system.&lt;/li&gt;
+  &lt;li&gt;It runs significantly faster on most systems.&lt;/li&gt;
+  &lt;li&gt;It supports international characters.&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;Screen shot of the new keyboard and game controller friendly menu:&lt;br /&gt;
+&lt;a href=&quot;http://www.blockattack.net/images/blockattack2_menu_2016-03-20_14-30-11.png&quot;&gt;&lt;img src=&quot;http://www.blockattack.net/images/blockattack2_menu_2016-03-20_14-30-11_thump.png&quot; alt=&quot;Screenshot&quot; border=&quot;0&quot; /&gt;&lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;The source can be downloaded here: &lt;a href=&quot;https://github.com/blockattack/blockattack-game/archive/v.2.0.0-SNAPSHOT-2016-03-20.tar.gz&quot;&gt;Source code&lt;/a&gt;&lt;br /&gt;
+A Windows installer can be downloaded here: &lt;a href=&quot;https://github.com/blockattack/blockattack-game/releases/download/v.2.0.0-SNAPSHOT-2016-03-20/blockattack-2.0.0-SNAPSHOT-2016-03-20.exe&quot;&gt;Windows installer&lt;/a&gt;&lt;/p&gt;
+</description>
+        <pubDate>Sun, 20 Mar 2016 00:00:00 +0100</pubDate>
+        <link>http://www.blockattack.net/2016/03/20/preview_of_2_0_0_as_of_2016_03_20.html</link>
+        <guid isPermaLink="true">http://www.blockattack.net/2016/03/20/preview_of_2_0_0_as_of_2016_03_20.html</guid>
+        
+        
+      </item>
     
       <item>
         <title>Version 1.4.2 is out!</title>
@@ -121,17 +165,6 @@ It will feature a new Replay format that will take up less space and allow games
         <pubDate>Wed, 19 Dec 2007 00:00:00 +0100</pubDate>
         <link>http://www.blockattack.net/2007/12/19/a_new_version_is_comming___.html</link>
         <guid isPermaLink="true">http://www.blockattack.net/2007/12/19/a_new_version_is_comming___.html</guid>
-        
-        
-      </item>
-    
-      <item>
-        <title>Block Attack is now in Debian</title>
-        <description>&lt;p&gt;Block attack is now in Debian. See http://packages.debian.org/unstable/games/blockattack&lt;/p&gt;
-</description>
-        <pubDate>Sun, 22 Jul 2007 00:00:00 +0200</pubDate>
-        <link>http://www.blockattack.net/2007/07/22/block_attack_is_now_in_debian.html</link>
-        <guid isPermaLink="true">http://www.blockattack.net/2007/07/22/block_attack_is_now_in_debian.html</guid>
         
         
       </item>

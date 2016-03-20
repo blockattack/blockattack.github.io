@@ -1,0 +1,270 @@
+<!DOCTYPE html>
+<html>
+
+  <head>
+  <meta charset="utf-8">
+  <meta http-equiv="X-UA-Compatible" content="IE=edge">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+
+  <title>Preview of 2.0.0 as of 2016-03-20 - Block Attack - Rise of the Blocks</title>
+  <meta name="description" content="TLDR: There is a preview version that are likely better for you.">
+  <meta property="og:title" content="Block Attack - Rise of the Blocks" />
+  <meta property="og:description" content="Block Attack - Rise of the Blocks is a puzzle/blockfall game inspired by Tetris Attack for the SNES.  The game is pretty action packed for a puzzle game :-)
+" />
+  <meta property="og:image" content="http://blockattack.sourceforge.net/images/blockattack-1.4.0-beta.png"/>
+
+  <link rel="stylesheet" href="/css/main.css">
+  <link rel="canonical" href="http://www.blockattack.net/2016/03/20/preview_of_2_0_0_as_of_2016_03_20.html">
+  <link rel="alternate" type="application/rss+xml" title="Block Attack - Rise of the Blocks" href="http://www.blockattack.net/feed.xml" />
+</head>
+
+
+  <body>
+
+    <header class="site-header">
+
+  <div class="wrapper">
+    <a class="site-title" href="/">Block Attack - Rise of the Blocks</a>
+
+    <nav class="site-nav">
+      <a href="#" class="menu-icon">
+        <svg viewBox="0 0 18 15">
+          <path fill="#424242" d="M18,1.484c0,0.82-0.665,1.484-1.484,1.484H1.484C0.665,2.969,0,2.304,0,1.484l0,0C0,0.665,0.665,0,1.484,0 h15.031C17.335,0,18,0.665,18,1.484L18,1.484z"/>
+          <path fill="#424242" d="M18,7.516C18,8.335,17.335,9,16.516,9H1.484C0.665,9,0,8.335,0,7.516l0,0c0-0.82,0.665-1.484,1.484-1.484 h15.031C17.335,6.031,18,6.696,18,7.516L18,7.516z"/>
+          <path fill="#424242" d="M18,13.516C18,14.335,17.335,15,16.516,15H1.484C0.665,15,0,14.335,0,13.516l0,0 c0-0.82,0.665-1.484,1.484-1.484h15.031C17.335,12.031,18,12.696,18,13.516L18,13.516z"/>
+        </svg>
+      </a>
+
+      <div class="trigger">
+        
+          
+          <a class="page-link" href="/about/">About</a>
+          
+        
+          
+          <a class="page-link" href="/download/">Download</a>
+          
+        
+          
+        
+          
+        
+          
+          <a class="page-link" href="/instructions/">Instructions</a>
+          
+        
+          
+        
+          
+          <a class="page-link" href="/screenshots/">Screen shots</a>
+          
+        
+          
+          <a class="page-link" href="/thegame/">The game</a>
+          
+        
+          
+        
+          
+        
+          
+        
+	
+      </div>
+    </nav>
+
+
+  </div>
+
+</header>
+
+
+    <div class="page-content">
+      <div class="wrapper">
+        <div class="post">
+
+  <header class="post-header">
+    <h1 class="post-title">Preview of 2.0.0 as of 2016-03-20</h1>
+    <p class="post-meta">Mar 20, 2016</p>
+  </header>
+
+  <article class="post-content">
+    <p><em>TLDR: There is a preview version that are likely better for you.</em></p>
+
+<p>The first version of Block Attack - Rise of the Blocks was released back in 2005.
+This is now more than 10 years ago. Back then I did not have the knowledge and experience that I have today.</p>
+
+<p>As many other programmers have thought: “This is too hard to maintain. I’ll just scratch it and start over”. <br />
+However that is not so simple. As Joel Spolsky writes in his <a href="http://www.joelonsoftware.com/articles/fog0000000069.html">“Things You Should Never Do, Part I”</a>: That the single biggest mistake you can do is to rewrite code from scratch.
+Rewriting from scratch may give you better code but you are also throwing out a working system and all the lessens learned from it.</p>
+
+<p>So instead I have been attacking and refactoring the bad parts of the game.<br />
+The code have been split into smaller pieces or packed behind an interface layer that I can manage.</p>
+
+<p>There were some things that I had to cut out for the time being.<br />
+Both the old net code and the replay functionality was “hacked” into the game. They had to go.<br />
+The old mouse play function was not done with touch in mind. It had to go too.<br />
+Game controllers must now be supported by SDL2</p>
+
+<p>The SDL library have been updated from SDL1.2 to SDL2. I must admit that I was about giving up several times while rewriting that.</p>
+
+<p>I want to reintroduce those things gain but I’ll rather release often once I have something that most people will consider better.</p>
+
+<p>Because the 2.0.0 version is already better in many ways:</p>
+
+<ul>
+  <li>It has a keyboard and game controller friendly menu system.</li>
+  <li>It runs significantly faster on most systems.</li>
+  <li>It supports international characters.</li>
+</ul>
+
+<p>Screen shot of the new keyboard and game controller friendly menu:<br />
+<a href="http://www.blockattack.net/images/blockattack2_menu_2016-03-20_14-30-11.png"><img src="http://www.blockattack.net/images/blockattack2_menu_2016-03-20_14-30-11_thump.png" alt="Screenshot" border="0" /></a></p>
+
+<p>The source can be downloaded here: <a href="https://github.com/blockattack/blockattack-game/archive/v.2.0.0-SNAPSHOT-2016-03-20.tar.gz">Source code</a><br />
+A Windows installer can be downloaded here: <a href="https://github.com/blockattack/blockattack-game/releases/download/v.2.0.0-SNAPSHOT-2016-03-20/blockattack-2.0.0-SNAPSHOT-2016-03-20.exe">Windows installer</a></p>
+
+  </article>
+
+<!-- From https://simplesharingbuttons.com/ -->
+
+Share this on:
+<ul class="share-buttons">
+  <li><a href="https://www.facebook.com/sharer/sharer.php?u=http://www.blockattack.net/2016/03/20/preview_of_2_0_0_as_of_2016_03_20.html" title="Share on Facebook" target="_blank"><img src="http://www.blockattack.net/images/flat_web_icon_set/color/Facebook.png"></a></li>
+  <li><a href="https://plus.google.com/share?url=http://www.blockattack.net/2016/03/20/preview_of_2_0_0_as_of_2016_03_20.html" target="_blank" title="Share on Google+"><img src="http://www.blockattack.net/images/flat_web_icon_set/color/Google+.png"></a></li>
+  <li><a href="http://www.tumblr.com/share?v=3&u=http://www.blockattack.net/2016/03/20/preview_of_2_0_0_as_of_2016_03_20.html&t=title=Block%20Attack%20-%20Rise%20of%20the%20Blocks&s=" target="_blank" title="Post to Tumblr"><img src="http://www.blockattack.net/images/flat_web_icon_set/color/Tumblr.png"></a></li>
+  <li><a href="http://www.reddit.com/submit?url=http://www.blockattack.net/2016/03/20/preview_of_2_0_0_as_of_2016_03_20.html&title=Block%20Attack%20-%20Rise%20of%20the%20Blocks" target="_blank" title="Submit to Reddit"><img src="http://www.blockattack.net/images/flat_web_icon_set/color/Reddit.png"></a></li>
+</ul>
+
+
+
+<div id="disqus_thread"></div>
+<script>
+    /**
+     *  RECOMMENDED CONFIGURATION VARIABLES: EDIT AND UNCOMMENT THE SECTION BELOW TO INSERT DYNAMIC VALUES FROM YOUR PLATFORM OR CMS.
+     *  LEARN WHY DEFINING THESE VARIABLES IS IMPORTANT: https://disqus.com/admin/universalcode/#configuration-variables
+     */
+    var disqus_config = function () {
+        this.page.url = "http://www.blockattack.net/2016/03/20/preview_of_2_0_0_as_of_2016_03_20.html";  
+        this.page.identifier = "/2016/03/20/preview_of_2_0_0_as_of_2016_03_20.html"; 
+    };
+    (function() {  // DON'T EDIT BELOW THIS LINE
+        var d = document, s = d.createElement('script');
+        
+        s.src = '//blockattack.disqus.com/embed.js';
+        
+        s.setAttribute('data-timestamp', +new Date());
+        (d.head || d.body).appendChild(s);
+    })();
+</script>
+<noscript>Please enable JavaScript to view the <a href="https://disqus.com/?ref_noscript" rel="nofollow">comments powered by Disqus.</a></noscript>
+
+
+</div>
+
+      </div>
+    </div>
+
+    <footer class="site-footer">
+
+  <div class="wrapper">
+
+    <h2 class="footer-heading">Block Attack - Rise of the Blocks</h2>
+
+    <div class="footer-col-wrapper">
+      <div class="footer-col  footer-col-1">
+        <ul class="contact-list">
+          <li>Block Attack - Rise of the Blocks</li>
+          <li><a href="mailto:poul@poulsander.com">poul@poulsander.com</a></li>
+        </ul>
+	<!--ONESTAT SCRIPTCODE START--><!-- // Modification of this code is not allowed and will permanently disable your account! // Account ID : 228120 // Website URL: http://blockattack.sf.net // Copyright (C) 2002-2005 OneStat.com All Rights Reserved --></p>
+
+<div id="OneStatTag">
+<table border="0" cellpadding="0" cellspacing="0">
+  <tbody>
+    <tr>
+      <td align="center">
+      <script type="text/javascript">
+<!--
+function OneStat_Pageview()
+{
+var d=document;
+var sid="228120";
+var CONTENTSECTION="";
+var CUSTOMDATA="";
+var osp_URL=d.URL;
+var osp_Title=d.title;
+var t=new Date();
+var p="http"+(d.URL.indexOf('https:')==0?'s':'')+"://stat.onestat.com/stat.aspx?tagver=2&sid="+sid;
+p+="&url="+escape(osp_URL);
+p+="&ti="+escape(osp_Title);
+p+="&section="+escape(CONTENTSECTION);
+p+="&custom="+escape(CUSTOMDATA);
+p+="&rf="+escape(parent==self?window.document.referrer:top.document.referrer);
+p+="&tz="+escape(t.getTimezoneOffset());
+p+="&ch="+escape(t.getHours());
+p+="&js=1";
+p+="&ul="+escape(navigator.appName=="Netscape"?navigator.language:navigator.userLanguage);
+if(typeof(screen)=="object"){
+p+="&sr="+screen.width+"x"+screen.height;p+="&cd="+screen.colorDepth;
+p+="&jo="+(navigator.javaEnabled()?"Yes":"No");
+}
+d.write('<a href="http://www.onestat.com/aspx/login.aspx?sid='+sid+'" target=_blank><img id="ONESTAT_TAG" border="0" src="'+p+'" alt="This site tracked by OneStat.com. Get your own free web site counter."></'+'a>');
+}
+OneStat_Pageview();
+//-->
+      </script>
+      <noscript><a href="http://www.onestat.com"><img
+ src="http://stat.onestat.com/stat.aspx?tagver=2&sid=228120&js=No&"
+ alt="website traffic statistics" border="0"></a><br>
+      <a href="http://www.onestat.com">Free Website Counter</a> </noscript>
+      </td>
+    </tr>
+    <tr>
+      <td align="center">
+      <div style="display: none; font-weight: bold; font-size: 7pt; color: black; font-family: 'Verdana'; height: 15px;"><a href="http://www.onestat.com" style="text-decoration: none; color: black;" target="_blank">Counter</a></div>
+      <br>
+      </td>
+    </tr>
+  </tbody>
+</table>
+</div>
+
+<!--ONESTAT SCRIPTCODE END-->
+
+      </div>
+
+      <div class="footer-col  footer-col-2">
+        <ul class="social-media-list">
+          
+          <li>
+            <a href="https://github.com/blockattack">
+              <span class="icon  icon--github">
+                <svg viewBox="0 0 16 16">
+                  <path fill="#828282" d="M7.999,0.431c-4.285,0-7.76,3.474-7.76,7.761 c0,3.428,2.223,6.337,5.307,7.363c0.388,0.071,0.53-0.168,0.53-0.374c0-0.184-0.007-0.672-0.01-1.32 c-2.159,0.469-2.614-1.04-2.614-1.04c-0.353-0.896-0.862-1.135-0.862-1.135c-0.705-0.481,0.053-0.472,0.053-0.472 c0.779,0.055,1.189,0.8,1.189,0.8c0.692,1.186,1.816,0.843,2.258,0.645c0.071-0.502,0.271-0.843,0.493-1.037 C4.86,11.425,3.049,10.76,3.049,7.786c0-0.847,0.302-1.54,0.799-2.082C3.768,5.507,3.501,4.718,3.924,3.65 c0,0,0.652-0.209,2.134,0.796C6.677,4.273,7.34,4.187,8,4.184c0.659,0.003,1.323,0.089,1.943,0.261 c1.482-1.004,2.132-0.796,2.132-0.796c0.423,1.068,0.157,1.857,0.077,2.054c0.497,0.542,0.798,1.235,0.798,2.082 c0,2.981-1.814,3.637-3.543,3.829c0.279,0.24,0.527,0.713,0.527,1.437c0,1.037-0.01,1.874-0.01,2.129 c0,0.208,0.14,0.449,0.534,0.373c3.081-1.028,5.302-3.935,5.302-7.362C15.76,3.906,12.285,0.431,7.999,0.431z"/>
+                </svg>
+              </span>
+
+              <span class="username">blockattack</span>
+            </a>
+          </li>
+          
+
+          
+        </ul>
+      </div>
+
+      <div class="footer-col  footer-col-3">
+        <p class="text">Block Attack - Rise of the Blocks is a puzzle/blockfall game inspired by Tetris Attack for the SNES.  The game is pretty action packed for a puzzle game :-)
+</p>
+      </div>
+    </div>
+
+  </div>
+
+</footer>
+
+
+  </body>
+
+</html>
