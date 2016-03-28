@@ -6,8 +6,8 @@
 </description>
     <link>http://www.blockattack.net/</link>
     <atom:link href="http://www.blockattack.net/feed.xml" rel="self" type="application/rss+xml"/>
-    <pubDate>Sun, 20 Mar 2016 14:39:51 +0100</pubDate>
-    <lastBuildDate>Sun, 20 Mar 2016 14:39:51 +0100</lastBuildDate>
+    <pubDate>Mon, 28 Mar 2016 15:27:01 +0200</pubDate>
+    <lastBuildDate>Mon, 28 Mar 2016 15:27:01 +0200</lastBuildDate>
     <generator>Jekyll v3.1.2</generator>
     
       <item>
@@ -43,9 +43,13 @@ Game controllers must now be supported by SDL2&lt;/p&gt;
 
 &lt;p&gt;Screen shot of the new keyboard and game controller friendly menu:&lt;br /&gt;
 &lt;a href=&quot;http://www.blockattack.net/images/blockattack2_menu_2016-03-20_14-30-11.png&quot;&gt;&lt;img src=&quot;http://www.blockattack.net/images/blockattack2_menu_2016-03-20_14-30-11_thump.png&quot; alt=&quot;Screenshot&quot; border=&quot;0&quot; /&gt;&lt;/a&gt;&lt;/p&gt;
+&lt;p /&gt;
 
-&lt;p&gt;The source can be downloaded here: &lt;a href=&quot;https://github.com/blockattack/blockattack-game/archive/v.2.0.0-SNAPSHOT-2016-03-20.tar.gz&quot;&gt;Source code&lt;/a&gt;&lt;br /&gt;
-A Windows installer can be downloaded here: &lt;a href=&quot;https://github.com/blockattack/blockattack-game/releases/download/v.2.0.0-SNAPSHOT-2016-03-20/blockattack-2.0.0-SNAPSHOT-2016-03-20.exe&quot;&gt;Windows installer&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;The source can be downloaded here: &lt;a href=&quot;https://github.com/blockattack/blockattack-game/archive/v.2.0.0-SNAPSHOT-2016-03-20.tar.gz&quot; class=&quot;download-link&quot;&gt;Source code&lt;/a&gt;&lt;br /&gt;&lt;/p&gt;
+&lt;p /&gt;
+
+&lt;p&gt;A Windows installer can be downloaded here: 
+&lt;a href=&quot;https://github.com/blockattack/blockattack-game/releases/download/v.2.0.0-SNAPSHOT-2016-03-20/blockattack-2.0.0-SNAPSHOT-2016-03-20.exe&quot; class=&quot;download-link&quot;&gt;Windows installer&lt;/a&gt;&lt;/p&gt;
 </description>
         <pubDate>Sun, 20 Mar 2016 00:00:00 +0100</pubDate>
         <link>http://www.blockattack.net/2016/03/20/preview_of_2_0_0_as_of_2016_03_20.html</link>
