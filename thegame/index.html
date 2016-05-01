@@ -89,13 +89,13 @@
   </header>
 
   <article class="post-content">
-    <p>Block Attack - Rise of the Blocks is a puzzle/blockfall game inspired by Nintendo’s Tetris Attack for the Super Nintendo. The game is pretty action packed for a puzzle game :-)
+    <p>Block Attack - Rise of the Blocks is a puzzle/blockfall game inspired by Nintendo’s Tetris Attack (or “Panel de Pon”) for the Super Nintendo. The game is pretty action packed for a puzzle game :-)
 The game is programmed by me (Poul Sander) and is released under the GPL license version 2.</p>
 
 <p>From version 1.1.0 the game play has been changed. This should also make it easier to implement an AI (almost ready)
-Current version is 1.4.2</p>
+Current version is 2.0.0</p>
 
-<p>#Features:</p>
+<h1 id="features">Features:</h1>
 
 <ul>
   <li>Based on the classic “Tetris Attack” for the SNES</li>
@@ -103,7 +103,6 @@ Current version is 1.4.2</p>
   <li>2 two player options: Time Trial and Vs. Mode</li>
   <li>Puzzle mode has 30+ puzzles</li>
   <li>Players can use a custom key setup</li>
-  <li>Handicap in (local)multi player</li>
   <li>High scores are saved</li>
   <li>Joypad support</li>
   <li>Music and sound effects</li>
@@ -112,51 +111,37 @@ Current version is 1.4.2</p>
   <li>Select puzzle file from a list in the game</li>
   <li>Runs under Linux and Windows + more</li>
   <li>Save/Play Replay function</li>
-  <li>Network play, you must know the IP address of the server (uses enet)</li>
-  <li>Deb-package for debian exists in ‘<a href="http://packages.debian.org/unstable/games/blockattack">unstable</a>’, packages for other systems can be found around the Internet</li>
+  <li>There is a Debian package: ‘<a href="http://packages.debian.org/unstable/games/blockattack">unstable</a>’</li>
 </ul>
 
-<p>#Coming features:
-Ok… they might never arrive. But things I would like.</p>
+<h1 id="coming-features">Coming features:</h1>
+<p>Ok… they might never arrive. But things I would like.</p>
 
 <ul>
   <li>Better AI</li>
-  <li>Save/play replay in Network games</li>
-  <li>Better network play</li>
+  <li>Reintroduce Save/play replay</li>
+  <li>Reintroduce network play</li>
   <li>More puzzles (always needed)</li>
-  <li>Maybe more packages for Linux</li>
 </ul>
 
-<p>#Notes:</p>
+<h1 id="notes">Notes:</h1>
 
 <ul>
-  <li>Network play might break compatibility for non-Windows and non-Linux systems (it will use enet, I don’t know the exact compatibility with other operating systems). Systems that uses big endian processors (like PowerPC) will most likely be incompatible with systems that uses low endian processors (like Celeron, Pentium and Athlon).</li>
-  <li>The object “ReadKeyboard” is useless, but I didn’t know it when I programmed the game.</li>
   <li>The game was once called “Block Attack - Raise of the blocks”. The title didn’t make any sense…</li>
 </ul>
 
-<p>#Known bugs in version 1.4.2:</p>
-
-<ul>
-  <li>The way the board is saved and transfered over network means that some information is lost.</li>
-</ul>
-
-<p>#System requirements:</p>
+<h1 id="system-requirements">System requirements:</h1>
 
 <ul>
   <li>Screen resolution: 1024x768 (cannot be changed, but it can run in a window)</li>
   <li>Keyboard</li>
   <li>Mouse</li>
-  <li>OS: Windows or Linux (SDL, SDL_Mixer and SDL_image req under Linux)</li>
-  <li>Processor: Decent (tested on 733 MHz)</li>
-  <li>Memory: 64 MB (I think)</li>
-  <li>Harddrive space: ~15 MB</li>
-  <li>A network is required for network play</li>
+  <li>OS: Windows or Linux</li>
 </ul>
 
 <p>The game is using the <a href="http://www.libsdl.org/">SDL libary</a>, <a href="http://www.libsdl.org/projects/SDL_mixer">SDL_Mixer</a>, <a href="http://www.libsdl.org/projects/SDL_image/">SDL_image</a>, <a href="http://www.linux-games.com/sfont/">SFont</a> (included) and <a href="http://enet.cubik.org/">enet</a> (also included)</p>
 
-<p>Tested on: Windows 7 and Ubuntu 15.04 (64 bit)</p>
+<p>Tested on: Windows 8 (64 bit), Windows 10 (64 bit), Ubuntu 14.04 (64 bit) and Ubuntu 16.04 (64 bit)</p>
 
 <p>Source is included</p>
 
