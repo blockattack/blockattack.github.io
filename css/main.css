@@ -485,3 +485,18 @@ ul.share-buttons li {
     color: #008080; }
   .highlight .il {
     color: #099; }
+
+.column {
+  float: left; }
+
+.left {
+  width: 35%; }
+
+.right {
+  width: 65%; }
+
+/* Clear floats after the columns */
+.row:after {
+  content: "";
+  display: table;
+  clear: both; }
