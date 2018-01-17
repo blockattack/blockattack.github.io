@@ -6,8 +6,8 @@
 </description>
     <link>http://localhost:4000/</link>
     <atom:link href="http://localhost:4000/feed.xml" rel="self" type="application/rss+xml"/>
-    <pubDate>Wed, 17 Jan 2018 19:25:45 +0100</pubDate>
-    <lastBuildDate>Wed, 17 Jan 2018 19:25:45 +0100</lastBuildDate>
+    <pubDate>Wed, 17 Jan 2018 19:29:15 +0100</pubDate>
+    <lastBuildDate>Wed, 17 Jan 2018 19:29:15 +0100</lastBuildDate>
     <generator>Jekyll v3.7.0</generator>
     
       <item>
@@ -15,8 +15,8 @@
         <description>&lt;p&gt;It is not that long ago that I updated the precompiled Linux build to be using SDL 2.0.6 instead of 2.0.5. Now I have another update. The compiled Linux build is now compiled on Ubuntu 12.04. This was a bit harder as Ubuntu 12.04 has reached end-of-life. However it was necessary as Ubuntu 14.04 is semi broken. At least the ubuntu:14.04 Docker image is broken. libsdl2-dev has been broken in 14.04 for months now. Even though I compiled my own version of SDL2 the build turned out to not work properly on other systems. Most notably the fullscreen support was broken. Well, that is now in the past.&lt;/p&gt;
 </description>
         <pubDate>Sat, 28 Oct 2017 00:00:00 +0200</pubDate>
-        <link>http://localhost:4000/news/2017/10/28/linux_build_updated_again.html</link>
-        <guid isPermaLink="true">http://localhost:4000/news/2017/10/28/linux_build_updated_again.html</guid>
+        <link>http://localhost:4000/2017/10/28/linux_build_updated_again.html</link>
+        <guid isPermaLink="true">http://localhost:4000/2017/10/28/linux_build_updated_again.html</guid>
         
         
         <category>news</category>
@@ -28,8 +28,8 @@
         <description>&lt;p&gt;I have updated the standalone Lunux build to use SDL 2.0.6 instead of SDL 2.0.5. SDL 2.0.5 apparently has a problem with keyboard input that resulted in some keys being recorded double. This seems to only affect Ubuntu. I have updated the standalone package. While the new one has working keyboard support it appears that there still are some problem with the fullscreen support. It is weird as the version compiled against the distributions version of SDL2 works perfectly. I guess creating a standalone version is just problematic that way… still want to figure it out though.&lt;/p&gt;
 </description>
         <pubDate>Sun, 15 Oct 2017 00:00:00 +0200</pubDate>
-        <link>http://localhost:4000/news/2017/10/15/linux_build_updated.html</link>
-        <guid isPermaLink="true">http://localhost:4000/news/2017/10/15/linux_build_updated.html</guid>
+        <link>http://localhost:4000/2017/10/15/linux_build_updated.html</link>
+        <guid isPermaLink="true">http://localhost:4000/2017/10/15/linux_build_updated.html</guid>
         
         
         <category>news</category>
@@ -41,8 +41,8 @@
         <description>&lt;p&gt;In the “old days” when you wanted to install a program then you downloaded it and installed it. Today that is not often the case. There are a large number of shops and download managers that takes care of most of the work. From a users point of view it is very convenient. So far I have not had Block Attack on any such platform. Most platforms are not geared towards independent developers or it was too cumbersome to setup. A couple of weeks ago I used the itch guide to create a standalone Linux version so the next step was logical: Add it to itch. I have now done so. I have tested it with the itch.io app and it works on both Linux and Windows. I’ll not stop distributing standalone copies but I believe you should have another option. Check it out &lt;a href=&quot;https://sago008.itch.io/blockattack&quot;&gt;here&lt;/a&gt;.&lt;/p&gt;
 </description>
         <pubDate>Sat, 16 Sep 2017 00:00:00 +0200</pubDate>
-        <link>http://localhost:4000/news/2017/09/16/block_attack_on_itch.html</link>
-        <guid isPermaLink="true">http://localhost:4000/news/2017/09/16/block_attack_on_itch.html</guid>
+        <link>http://localhost:4000/2017/09/16/block_attack_on_itch.html</link>
+        <guid isPermaLink="true">http://localhost:4000/2017/09/16/block_attack_on_itch.html</guid>
         
         
         <category>news</category>
@@ -54,8 +54,8 @@
         <description>&lt;p&gt;While I develop and run the game almost exclusively on Linux I have not provided a precompiled version so far. That has changed now. After having experimented with Docker and reading the &lt;a href=&quot;https://itch.io/docs/itch/integrating/platforms/linux.html&quot;&gt;itch.io package guide&lt;/a&gt;. I have now decided to try to provide a precompiled Linux version. I have tested it on old versions of Ubuntu, Debian and Fedora but not versions that have reached end-of-life. I have skipped out on CentOS. While the source is still the safest option this should give an easier alternative.&lt;/p&gt;
 </description>
         <pubDate>Sun, 03 Sep 2017 00:00:00 +0200</pubDate>
-        <link>http://localhost:4000/news/2017/09/03/linux_build_added.html</link>
-        <guid isPermaLink="true">http://localhost:4000/news/2017/09/03/linux_build_added.html</guid>
+        <link>http://localhost:4000/2017/09/03/linux_build_added.html</link>
+        <guid isPermaLink="true">http://localhost:4000/2017/09/03/linux_build_added.html</guid>
         
         
         <category>news</category>
@@ -69,8 +69,8 @@ This is just a small hotfix for the Windows version. The Windows version would f
 
 </description>
         <pubDate>Sun, 30 Jul 2017 00:00:00 +0200</pubDate>
-        <link>http://localhost:4000/news/2017/07/30/version_2_1_2_released.html</link>
-        <guid isPermaLink="true">http://localhost:4000/news/2017/07/30/version_2_1_2_released.html</guid>
+        <link>http://localhost:4000/2017/07/30/version_2_1_2_released.html</link>
+        <guid isPermaLink="true">http://localhost:4000/2017/07/30/version_2_1_2_released.html</guid>
         
         
         <category>news</category>
@@ -90,8 +90,8 @@ bound and will lower as the game progresses.&lt;/p&gt;
 &lt;p&gt;One change may especially be of interest to a lot of people: The resolution can now be changed. It is a bit of a raw feature. The text is not easy to read etc. But for people that want to run in a window on a small screen it is now an option.&lt;/p&gt;
 </description>
         <pubDate>Sat, 01 Apr 2017 00:00:00 +0200</pubDate>
-        <link>http://localhost:4000/news/2017/04/01/version_2_1_1_released.html</link>
-        <guid isPermaLink="true">http://localhost:4000/news/2017/04/01/version_2_1_1_released.html</guid>
+        <link>http://localhost:4000/2017/04/01/version_2_1_1_released.html</link>
+        <guid isPermaLink="true">http://localhost:4000/2017/04/01/version_2_1_1_released.html</guid>
         
         
         <category>news</category>
@@ -106,8 +106,8 @@ bound and will lower as the game progresses.&lt;/p&gt;
 There are other changes in the master branch on GitHub but they are not yet ready for release.&lt;/p&gt;
 </description>
         <pubDate>Sat, 01 Oct 2016 00:00:00 +0200</pubDate>
-        <link>http://localhost:4000/news/2016/10/01/version_2_0_1_released.html</link>
-        <guid isPermaLink="true">http://localhost:4000/news/2016/10/01/version_2_0_1_released.html</guid>
+        <link>http://localhost:4000/2016/10/01/version_2_0_1_released.html</link>
+        <guid isPermaLink="true">http://localhost:4000/2016/10/01/version_2_0_1_released.html</guid>
         
         
         <category>news</category>
@@ -124,8 +124,8 @@ It was Gig that &lt;a href=&quot;http://openarena.ws/board/index.php?topic=5252.
 &lt;p&gt;It can be found on the &lt;a href=&quot;/download/&quot;&gt;download page&lt;/a&gt; or on &lt;a href=&quot;https://github.com/blockattack/blockattack-game/releases/tag/v2.0.0&quot;&gt;Github&lt;/a&gt;.&lt;/p&gt;
 </description>
         <pubDate>Sat, 02 Jul 2016 00:00:00 +0200</pubDate>
-        <link>http://localhost:4000/news/2016/07/02/now_also_without_installer.html</link>
-        <guid isPermaLink="true">http://localhost:4000/news/2016/07/02/now_also_without_installer.html</guid>
+        <link>http://localhost:4000/2016/07/02/now_also_without_installer.html</link>
+        <guid isPermaLink="true">http://localhost:4000/2016/07/02/now_also_without_installer.html</guid>
         
         
         <category>news</category>
@@ -148,8 +148,8 @@ But I am happy to release 2.0.0 today because it is better than 1.4.2 in almost 
 Not a problem anymore. Now you can control the menu with only the keyboard, only the mouse or only a game controller or a mix of them if you want!&lt;/p&gt;
 </description>
         <pubDate>Sun, 01 May 2016 00:00:00 +0200</pubDate>
-        <link>http://localhost:4000/news/2016/05/01/version_2_0_0_released.html</link>
-        <guid isPermaLink="true">http://localhost:4000/news/2016/05/01/version_2_0_0_released.html</guid>
+        <link>http://localhost:4000/2016/05/01/version_2_0_0_released.html</link>
+        <guid isPermaLink="true">http://localhost:4000/2016/05/01/version_2_0_0_released.html</guid>
         
         
         <category>news</category>
@@ -193,8 +193,8 @@ Game controllers must now be supported by SDL2&lt;/p&gt;
 &lt;p&gt;The preview can be downloaded here: &lt;a href=&quot;https://github.com/blockattack/blockattack-game/releases/tag/v.2.0.0-SNAPSHOT-2016-03-20&quot;&gt;Release page&lt;/a&gt;&lt;/p&gt;
 </description>
         <pubDate>Sun, 20 Mar 2016 00:00:00 +0100</pubDate>
-        <link>http://localhost:4000/news/update/2016/03/20/preview_of_2_0_0_as_of_2016_03_20.html</link>
-        <guid isPermaLink="true">http://localhost:4000/news/update/2016/03/20/preview_of_2_0_0_as_of_2016_03_20.html</guid>
+        <link>http://localhost:4000/2016/03/20/preview_of_2_0_0_as_of_2016_03_20.html</link>
+        <guid isPermaLink="true">http://localhost:4000/2016/03/20/preview_of_2_0_0_as_of_2016_03_20.html</guid>
         
         
         <category>news</category>
