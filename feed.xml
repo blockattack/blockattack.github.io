@@ -6,9 +6,25 @@
 </description>
     <link>https://blockattack.net/</link>
     <atom:link href="https://blockattack.net/feed.xml" rel="self" type="application/rss+xml"/>
-    <pubDate>Sun, 25 Mar 2018 12:09:32 +0200</pubDate>
-    <lastBuildDate>Sun, 25 Mar 2018 12:09:32 +0200</lastBuildDate>
+    <pubDate>Thu, 05 Apr 2018 23:38:42 +0200</pubDate>
+    <lastBuildDate>Thu, 05 Apr 2018 23:38:42 +0200</lastBuildDate>
     <generator>Jekyll v3.7.0</generator>
+    
+      <item>
+        <title>Work in progress: New font handling</title>
+        <description>&lt;p&gt;The fonts in the current version does have some trouble. Some people find them hard to read, they scale really badly and they are completely broken on Windows High DPI displays.
+I have been working a new font handling method for Block Attack. It is committed, merged to master and will be included in the 2.2.0 release that I hope to get ready before the end of May.
+Until then I have a couple of screen shots:&lt;/p&gt;
+
+&lt;p&gt;&lt;a href=&quot;/images/2018_04_04_fonts/blockattack_menu_font.png&quot; data-lightbox=&quot;image-2018-04-05&quot; data-title=&quot;Menu with new font&quot;&gt;&lt;img src=&quot;/images/2018_04_04_fonts/blockattack_menu_font.thumb.png&quot; alt=&quot;Menu with new font&quot; border=&quot;0&quot; /&gt;&lt;/a&gt;
+&lt;a href=&quot;/images/2018_04_04_fonts/blockattack_2.2.0-snapshot-font.png&quot; data-lightbox=&quot;image-2018-04-05&quot; data-title=&quot;Game with new font&quot;&gt;&lt;img src=&quot;/images/2018_04_04_fonts/blockattack_2.2.0-snapshot-font.thumb.png&quot; alt=&quot;Game with new font&quot; border=&quot;0&quot; /&gt;&lt;/a&gt;&lt;/p&gt;
+</description>
+        <pubDate>Thu, 05 Apr 2018 00:00:00 +0200</pubDate>
+        <link>https://blockattack.net/2018/04/05/work_in_progress__new_font_handling.html</link>
+        <guid isPermaLink="true">https://blockattack.net/2018/04/05/work_in_progress__new_font_handling.html</guid>
+        
+        
+      </item>
     
       <item>
         <title>Linux build updated again</title>
@@ -153,53 +169,6 @@ Not a problem anymore. Now you can control the menu with only the keyboard, only
         
         
         <category>news</category>
-        
-      </item>
-    
-      <item>
-        <title>Preview of 2.0.0 as of 2016-03-20</title>
-        <description>&lt;p&gt;&lt;em&gt;TLDR: There is a preview version that are likely better for you.&lt;/em&gt;&lt;/p&gt;
-
-&lt;p&gt;The first version of Block Attack - Rise of the Blocks was released back in 2005.
-This is now more than 10 years ago. Back then I did not have the knowledge and experience that I have today.&lt;/p&gt;
-
-&lt;p&gt;As many other programmers have thought: “This is too hard to maintain. I’ll just scratch it and start over”. &lt;br /&gt;
-However that is not so simple. As Joel Spolsky writes in his &lt;a href=&quot;http://www.joelonsoftware.com/articles/fog0000000069.html&quot;&gt;“Things You Should Never Do, Part I”&lt;/a&gt;: That the single biggest mistake you can do is to rewrite code from scratch.
-Rewriting from scratch may give you better code but you are also throwing out a working system and all the lessens learned from it.&lt;/p&gt;
-
-&lt;p&gt;So instead I have been attacking and refactoring the bad parts of the game.&lt;br /&gt;
-The code have been split into smaller pieces or packed behind an interface layer that I can manage.&lt;/p&gt;
-
-&lt;p&gt;There were some things that I had to cut out for the time being.&lt;br /&gt;
-Both the old net code and the replay functionality was “hacked” into the game. They had to go.&lt;br /&gt;
-The old mouse play function was not done with touch in mind. It had to go too.&lt;br /&gt;
-Game controllers must now be supported by SDL2&lt;/p&gt;
-
-&lt;p&gt;The SDL library have been updated from SDL1.2 to SDL2. I must admit that I was about giving up several times while rewriting that.&lt;/p&gt;
-
-&lt;p&gt;I want to reintroduce those things gain but I’ll rather release often once I have something that most people will consider better.&lt;/p&gt;
-
-&lt;p&gt;Because the 2.0.0 version is already better in many ways:&lt;/p&gt;
-
-&lt;ul&gt;
-  &lt;li&gt;It has a keyboard and game controller friendly menu system.&lt;/li&gt;
-  &lt;li&gt;It runs significantly faster on most systems.&lt;/li&gt;
-  &lt;li&gt;It supports international characters.&lt;/li&gt;
-&lt;/ul&gt;
-
-&lt;p&gt;Screen shot of the new keyboard and game controller friendly menu:&lt;br /&gt;
-&lt;a href=&quot;/images/blockattack2_menu_2016-03-20_14-30-11.png&quot; data-lightbox=&quot;image-2016-03-20&quot; data-title=&quot;Screenshot&quot;&gt;&lt;img src=&quot;/images/blockattack2_menu_2016-03-20_14-30-11_thump.png&quot; alt=&quot;Screenshot&quot; border=&quot;0&quot; /&gt;&lt;/a&gt;&lt;/p&gt;
-&lt;p&gt;&lt;/p&gt;
-&lt;p&gt;The preview can be downloaded here: &lt;a href=&quot;https://github.com/blockattack/blockattack-game/releases/tag/v.2.0.0-SNAPSHOT-2016-03-20&quot;&gt;Release page&lt;/a&gt;&lt;/p&gt;
-</description>
-        <pubDate>Sun, 20 Mar 2016 00:00:00 +0100</pubDate>
-        <link>https://blockattack.net/2016/03/20/preview_of_2_0_0_as_of_2016_03_20.html</link>
-        <guid isPermaLink="true">https://blockattack.net/2016/03/20/preview_of_2_0_0_as_of_2016_03_20.html</guid>
-        
-        
-        <category>news</category>
-        
-        <category>update</category>
         
       </item>
     
