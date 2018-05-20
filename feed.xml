@@ -6,9 +6,24 @@
 </description>
     <link>https://blockattack.net/</link>
     <atom:link href="https://blockattack.net/feed.xml" rel="self" type="application/rss+xml"/>
-    <pubDate>Wed, 18 Apr 2018 21:10:28 +0200</pubDate>
-    <lastBuildDate>Wed, 18 Apr 2018 21:10:28 +0200</lastBuildDate>
+    <pubDate>Sun, 20 May 2018 11:03:48 +0200</pubDate>
+    <lastBuildDate>Sun, 20 May 2018 11:03:48 +0200</lastBuildDate>
     <generator>Jekyll v3.7.0</generator>
+    
+      <item>
+        <title>Version 2.2.0 released</title>
+        <description>&lt;p&gt;Version 2.2.0 has been released! Read the &lt;a href=&quot;https://raw.githubusercontent.com/blockattack/blockattack-game/v2.2.X/ReleaseNotes-2.2.0.txt&quot;&gt;release note&lt;/a&gt; and &lt;a href=&quot;/download/&quot;&gt;download it&lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;This version introduces a new font system that makes scaling and resolution handling a lot better.&lt;/p&gt;
+
+&lt;p&gt;For Windows users with HighDPI displays the game now works “out of the box”.&lt;/p&gt;
+</description>
+        <pubDate>Sun, 20 May 2018 00:00:00 +0200</pubDate>
+        <link>https://blockattack.net/2018/05/20/version_2_2_0_released.html</link>
+        <guid isPermaLink="true">https://blockattack.net/2018/05/20/version_2_2_0_released.html</guid>
+        
+        
+      </item>
     
       <item>
         <title>Work in progress: New font handling</title>
@@ -142,30 +157,6 @@ It was Gig that &lt;a href=&quot;http://openarena.ws/board/index.php?topic=5252.
         <pubDate>Sat, 02 Jul 2016 00:00:00 +0200</pubDate>
         <link>https://blockattack.net/2016/07/02/now_also_without_installer.html</link>
         <guid isPermaLink="true">https://blockattack.net/2016/07/02/now_also_without_installer.html</guid>
-        
-        
-        <category>news</category>
-        
-      </item>
-    
-      <item>
-        <title>Version 2.0.0 released</title>
-        <description>&lt;p&gt;Version 2.0.0 is released. Read the &lt;a href=&quot;https://raw.githubusercontent.com/blockattack/blockattack-game/v2.0.X/ReleaseNotes-2.0.0.txt&quot;&gt;Release Notes&lt;/a&gt; and &lt;a href=&quot;/download/&quot;&gt;download it&lt;/a&gt;.&lt;/p&gt;
-
-&lt;p&gt;It is difficult to release software. Especially then you do not have a deadline.
-Software is never ‘done’, it is just ‘release ready’.
-But I am happy to release 2.0.0 today because it is better than 1.4.2 in almost every way.&lt;/p&gt;
-
-&lt;p&gt;Sure it has lost a few features like Network play and saved replays. But they worked poorly anyway.&lt;/p&gt;
-
-&lt;p&gt;However version 2.0.0 has better keyboard support, better gamepad support and better mouse support.&lt;/p&gt;
-
-&lt;p&gt;It always annoyed me that while I could play with the keyboard, I still needed to use the mouse to control the menu.
-Not a problem anymore. Now you can control the menu with only the keyboard, only the mouse or only a game controller or a mix of them if you want!&lt;/p&gt;
-</description>
-        <pubDate>Sun, 01 May 2016 00:00:00 +0200</pubDate>
-        <link>https://blockattack.net/2016/05/01/version_2_0_0_released.html</link>
-        <guid isPermaLink="true">https://blockattack.net/2016/05/01/version_2_0_0_released.html</guid>
         
         
         <category>news</category>
