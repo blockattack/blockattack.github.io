@@ -6,9 +6,26 @@
 </description>
     <link>https://blockattack.net/</link>
     <atom:link href="https://blockattack.net/feed.xml" rel="self" type="application/rss+xml"/>
-    <pubDate>Thu, 24 May 2018 20:04:31 +0200</pubDate>
-    <lastBuildDate>Thu, 24 May 2018 20:04:31 +0200</lastBuildDate>
+    <pubDate>Sun, 01 Jul 2018 17:22:48 +0200</pubDate>
+    <lastBuildDate>Sun, 01 Jul 2018 17:22:48 +0200</lastBuildDate>
     <generator>Jekyll v3.7.0</generator>
+    
+      <item>
+        <title>Version 2.3.0 released</title>
+        <description>&lt;p&gt;Version 2.3.0 has been released! Read the &lt;a href=&quot;https://raw.githubusercontent.com/blockattack/blockattack-game/v2.3.X/ReleaseNotes-2.3.0.txt&quot;&gt;release note&lt;/a&gt; and &lt;a href=&quot;/download/&quot;&gt;download it&lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;The game now remember the window size when running in windowed mode&lt;/p&gt;
+
+&lt;p&gt;The game controller has also been improved with and more strings are translatable.&lt;/p&gt;
+</description>
+        <pubDate>Sun, 01 Jul 2018 00:00:00 +0200</pubDate>
+        <link>https://blockattack.net/2018/07/01/version_2_3_0_released.html</link>
+        <guid isPermaLink="true">https://blockattack.net/2018/07/01/version_2_3_0_released.html</guid>
+        
+        
+        <category>news</category>
+        
+      </item>
     
       <item>
         <title>Version 2.2.0 released</title>
@@ -22,6 +39,8 @@
         <link>https://blockattack.net/2018/05/20/version_2_2_0_released.html</link>
         <guid isPermaLink="true">https://blockattack.net/2018/05/20/version_2_2_0_released.html</guid>
         
+        
+        <category>news</category>
         
       </item>
     
@@ -38,6 +57,8 @@ Until then I have a couple of screen shots:&lt;/p&gt;
         <link>https://blockattack.net/2018/04/05/work_in_progress__new_font_handling.html</link>
         <guid isPermaLink="true">https://blockattack.net/2018/04/05/work_in_progress__new_font_handling.html</guid>
         
+        
+        <category>news</category>
         
       </item>
     
@@ -139,24 +160,6 @@ There are other changes in the master branch on GitHub but they are not yet read
         <pubDate>Sat, 01 Oct 2016 00:00:00 +0200</pubDate>
         <link>https://blockattack.net/2016/10/01/version_2_0_1_released.html</link>
         <guid isPermaLink="true">https://blockattack.net/2016/10/01/version_2_0_1_released.html</guid>
-        
-        
-        <category>news</category>
-        
-      </item>
-    
-      <item>
-        <title>Now also without installer</title>
-        <description>&lt;p&gt;The download section now contains a Windows version without an installer.
-I always preferred that kind of installation myself but for some reason I have never provided one until now.
-This makes it much easier to have multiple versions installed.
-It was Gig that &lt;a href=&quot;http://openarena.ws/board/index.php?topic=5252.msg53795#msg53795&quot;&gt;mentioned it&lt;/a&gt;.&lt;/p&gt;
-
-&lt;p&gt;It can be found on the &lt;a href=&quot;/download/&quot;&gt;download page&lt;/a&gt; or on &lt;a href=&quot;https://github.com/blockattack/blockattack-game/releases/tag/v2.0.0&quot;&gt;Github&lt;/a&gt;.&lt;/p&gt;
-</description>
-        <pubDate>Sat, 02 Jul 2016 00:00:00 +0200</pubDate>
-        <link>https://blockattack.net/2016/07/02/now_also_without_installer.html</link>
-        <guid isPermaLink="true">https://blockattack.net/2016/07/02/now_also_without_installer.html</guid>
         
         
         <category>news</category>
