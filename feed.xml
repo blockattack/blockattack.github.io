@@ -6,9 +6,29 @@
 </description>
     <link>https://blockattack.net/</link>
     <atom:link href="https://blockattack.net/feed.xml" rel="self" type="application/rss+xml"/>
-    <pubDate>Sun, 11 Nov 2018 16:39:01 +0100</pubDate>
-    <lastBuildDate>Sun, 11 Nov 2018 16:39:01 +0100</lastBuildDate>
+    <pubDate>Sun, 10 Mar 2019 15:05:01 +0100</pubDate>
+    <lastBuildDate>Sun, 10 Mar 2019 15:05:01 +0100</lastBuildDate>
     <generator>Jekyll v3.7.0</generator>
+    
+      <item>
+        <title>Version 2.4.0 released</title>
+        <description>&lt;p&gt;Version 2.4.0 has been released! Read the &lt;a href=&quot;https://raw.githubusercontent.com/blockattack/blockattack-game/v2.4.X/ReleaseNotes-2.4.0.txt&quot;&gt;release note&lt;/a&gt; and &lt;a href=&quot;/download/&quot;&gt;download it&lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;The game now offers several starting speeds for endless.&lt;/p&gt;
+
+&lt;p&gt;SDL has been upgraded to 2.0.9 for the Windows version which brings some improvements to the window scaling.
+The Windows version also has significantly improved unicode support.&lt;/p&gt;
+
+&lt;p&gt;I was going to create a trailer but video editing is still a skill I need to work on.&lt;/p&gt;
+</description>
+        <pubDate>Sun, 10 Mar 2019 00:00:00 +0100</pubDate>
+        <link>https://blockattack.net/2019/03/10/version_2_4_0_released.html</link>
+        <guid isPermaLink="true">https://blockattack.net/2019/03/10/version_2_4_0_released.html</guid>
+        
+        
+        <category>news</category>
+        
+      </item>
     
       <item>
         <title>Version 2.3.0 released</title>
@@ -144,22 +164,6 @@ bound and will lower as the game progresses.&lt;/p&gt;
         <pubDate>Sat, 01 Apr 2017 00:00:00 +0200</pubDate>
         <link>https://blockattack.net/2017/04/01/version_2_1_1_released.html</link>
         <guid isPermaLink="true">https://blockattack.net/2017/04/01/version_2_1_1_released.html</guid>
-        
-        
-        <category>news</category>
-        
-      </item>
-    
-      <item>
-        <title>Version 2.0.1 released</title>
-        <description>&lt;p&gt;Version 2.0.1 is released. Read the &lt;a href=&quot;https://raw.githubusercontent.com/blockattack/blockattack-game/v2.0.X/ReleaseNotes-2.0.1.txt&quot;&gt;Release Notes&lt;/a&gt; and &lt;a href=&quot;/download/&quot;&gt;download it&lt;/a&gt;.&lt;/p&gt;
-
-&lt;p&gt;This is a very minor update. It only has two changes: The animation for “Get ready” and the manpage have been fixed.
-There are other changes in the master branch on GitHub but they are not yet ready for release.&lt;/p&gt;
-</description>
-        <pubDate>Sat, 01 Oct 2016 00:00:00 +0200</pubDate>
-        <link>https://blockattack.net/2016/10/01/version_2_0_1_released.html</link>
-        <guid isPermaLink="true">https://blockattack.net/2016/10/01/version_2_0_1_released.html</guid>
         
         
         <category>news</category>
