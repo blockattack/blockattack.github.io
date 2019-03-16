@@ -121,10 +121,10 @@ pre {
   padding-right: 30px;
   padding-left: 30px;
   border: 5px solid 	#cc0099;
-  border-radius: 25px;
+  border-radius: 15px;
   background-color: #eef;
-  padding-top: 5px;
-  padding-bottom: 5px; }
+  padding-top: 15px;
+  padding-bottom: 15px; }
   @media screen and (max-width: 800px) {
     .wrapper {
       max-width: -webkit-calc(960px - (30px));
@@ -152,7 +152,7 @@ pre {
     fill: #828282; }
 
 .download-link {
-  padding: 5px 5px;
+  padding: 2px 5px;
   background: #00CC33;
   -webkit-border-radius: 4px;
   -moz-border-radius: 4px;
@@ -172,6 +172,10 @@ pre {
 .download-link:active {
   color: white; }
 
+.download-link:focus {
+  color: white;
+  border: solid 2px #20538D; }
+
 /* From https://simplesharingbuttons.com/ */
 ul.share-buttons {
   list-style: none;
@@ -184,8 +188,9 @@ ul.share-buttons li {
  * Site header
  */
 .site-header {
-  border-top: 5px solid #424242;
-  border-bottom: 1px solid #e8e8e8;
+  border-top: 0px solid #424242;
+  border-bottom: 0px;
+  margin-top: 3px;
   min-height: 56px;
   position: relative; }
 
@@ -244,7 +249,7 @@ ul.share-buttons li {
  * Site footer
  */
 .site-footer {
-  border-top: 1px solid #e8e8e8;
+  border-top: 0px;
   padding: 30px 0; }
 
 .footer-heading {
@@ -314,6 +319,9 @@ ul.share-buttons li {
 .post-link {
   display: block;
   font-size: 24px; }
+
+.frontpage_screenshot {
+  border-radius: 5px; }
 
 /**
  * Posts
