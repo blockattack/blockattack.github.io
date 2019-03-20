@@ -6,9 +6,26 @@
 </description>
     <link>https://blockattack.net/</link>
     <atom:link href="https://blockattack.net/feed.xml" rel="self" type="application/rss+xml"/>
-    <pubDate>Sat, 16 Mar 2019 15:02:28 +0100</pubDate>
-    <lastBuildDate>Sat, 16 Mar 2019 15:02:28 +0100</lastBuildDate>
+    <pubDate>Wed, 20 Mar 2019 22:21:54 +0100</pubDate>
+    <lastBuildDate>Wed, 20 Mar 2019 22:21:54 +0100</lastBuildDate>
     <generator>Jekyll v3.7.0</generator>
+    
+      <item>
+        <title>A video from 2.4.0</title>
+        <description>&lt;p&gt;The previous video of the gameplay is almost 10 years old. It was time for a new one. So I have recorded a video of a VS game from the just released version.&lt;/p&gt;
+
+&lt;p&gt;Still 4:3 format like the game. I am planning to do something about that in the next version and then I may create a new video.&lt;/p&gt;
+
+&lt;iframe width=&quot;480&quot; height=&quot;360&quot; src=&quot;https://www.youtube.com/embed/xHxnGB2y_lg?rel=0&quot; frameborder=&quot;0&quot; allowfullscreen=&quot;&quot;&gt;&lt;/iframe&gt;
+</description>
+        <pubDate>Wed, 20 Mar 2019 00:00:00 +0100</pubDate>
+        <link>https://blockattack.net/2019/03/20/a_video_from_2_4_0.html</link>
+        <guid isPermaLink="true">https://blockattack.net/2019/03/20/a_video_from_2_4_0.html</guid>
+        
+        
+        <category>video</category>
+        
+      </item>
     
       <item>
         <title>Version 2.4.0 released</title>
@@ -143,27 +160,6 @@ This is just a small hotfix for the Windows version. The Windows version would f
         <pubDate>Sun, 30 Jul 2017 00:00:00 +0200</pubDate>
         <link>https://blockattack.net/2017/07/30/version_2_1_2_released.html</link>
         <guid isPermaLink="true">https://blockattack.net/2017/07/30/version_2_1_2_released.html</guid>
-        
-        
-        <category>news</category>
-        
-      </item>
-    
-      <item>
-        <title>Version 2.1.1 released</title>
-        <description>&lt;p&gt;Version 2.1.1 has been released! Read the &lt;a href=&quot;https://raw.githubusercontent.com/blockattack/blockattack-game/af19221e24dca72a4433bc075f47c785b858eb7a/ReleaseNotes-2.1.1.txt&quot;&gt;release note&lt;/a&gt; and &lt;a href=&quot;/download/&quot;&gt;download it&lt;/a&gt;&lt;/p&gt;
-
-&lt;p&gt;Well there was a short lived 2.1.0 but mstraube found a blocking bug that I had to fix.&lt;/p&gt;
-
-&lt;p&gt;This has the first gameplay change in a long time. In the previous version the rise would stop
-while clearing. It could stop for several seconds. This is no longer the case. The time is now
-bound and will lower as the game progresses.&lt;/p&gt;
-
-&lt;p&gt;One change may especially be of interest to a lot of people: The resolution can now be changed. It is a bit of a raw feature. The text is not easy to read etc. But for people that want to run in a window on a small screen it is now an option.&lt;/p&gt;
-</description>
-        <pubDate>Sat, 01 Apr 2017 00:00:00 +0200</pubDate>
-        <link>https://blockattack.net/2017/04/01/version_2_1_1_released.html</link>
-        <guid isPermaLink="true">https://blockattack.net/2017/04/01/version_2_1_1_released.html</guid>
         
         
         <category>news</category>
