@@ -6,9 +6,28 @@
 </description>
     <link>https://blockattack.net/</link>
     <atom:link href="https://blockattack.net/feed.xml" rel="self" type="application/rss+xml"/>
-    <pubDate>Thu, 21 Mar 2019 20:31:16 +0100</pubDate>
-    <lastBuildDate>Thu, 21 Mar 2019 20:31:16 +0100</lastBuildDate>
+    <pubDate>Sat, 25 May 2019 20:06:28 +0200</pubDate>
+    <lastBuildDate>Sat, 25 May 2019 20:06:28 +0200</lastBuildDate>
     <generator>Jekyll v3.7.0</generator>
+    
+      <item>
+        <title>Version 2.5.0 released</title>
+        <description>&lt;p&gt;Version 2.5.0 has been released! Read the &lt;a href=&quot;https://raw.githubusercontent.com/blockattack/blockattack-game/v2.5.X/ReleaseNotes-2.5.0.txt&quot;&gt;release note&lt;/a&gt; and &lt;a href=&quot;/download/&quot;&gt;download it&lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;News this time includes widescreen support. Not that it makes much value, at the game uses a vertical playing field. However in fullscreen you no longer get the black bars in the side.&lt;/p&gt;
+
+&lt;p&gt;Previous versions did also suffer for a bug that meant that files was always loaded in reverse order.&lt;/p&gt;
+
+&lt;p&gt;It is now also possible to run in permanent software renderer mode for people who have trouble with the hardware accelerated 2d.&lt;/p&gt;
+</description>
+        <pubDate>Sat, 25 May 2019 00:00:00 +0200</pubDate>
+        <link>https://blockattack.net/2019/05/25/version_2_5_0_released.html</link>
+        <guid isPermaLink="true">https://blockattack.net/2019/05/25/version_2_5_0_released.html</guid>
+        
+        
+        <category>news</category>
+        
+      </item>
     
       <item>
         <title>A video from 2.4.0</title>
@@ -145,21 +164,6 @@ Until then I have a couple of screen shots:&lt;/p&gt;
         <pubDate>Sun, 03 Sep 2017 00:00:00 +0200</pubDate>
         <link>https://blockattack.net/2017/09/03/linux_build_added.html</link>
         <guid isPermaLink="true">https://blockattack.net/2017/09/03/linux_build_added.html</guid>
-        
-        
-        <category>news</category>
-        
-      </item>
-    
-      <item>
-        <title>Version 2.1.2 released</title>
-        <description>&lt;p&gt;Version 2.1.2 has been released.
-This is just a small hotfix for the Windows version. The Windows version would fail to save correctly if “My Games” did not exist. Now it is created.&lt;/p&gt;
-
-</description>
-        <pubDate>Sun, 30 Jul 2017 00:00:00 +0200</pubDate>
-        <link>https://blockattack.net/2017/07/30/version_2_1_2_released.html</link>
-        <guid isPermaLink="true">https://blockattack.net/2017/07/30/version_2_1_2_released.html</guid>
         
         
         <category>news</category>
