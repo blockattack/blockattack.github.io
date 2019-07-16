@@ -1,5 +1,7 @@
 # Block Attack - Rise of the Blocks homepage
 
+Page: https://blockattack.net
+
 Note that this is split into two repositories:
  * https://github.com/blockattack/blockattack-www contains the source
  * https://github.com/blockattack/blockattack.github.io contains the result
