@@ -6,9 +6,9 @@
 </description>
     <link>https://blockattack.net/</link>
     <atom:link href="https://blockattack.net/feed.xml" rel="self" type="application/rss+xml"/>
-    <pubDate>Tue, 23 Jul 2019 18:03:07 +0200</pubDate>
-    <lastBuildDate>Tue, 23 Jul 2019 18:03:07 +0200</lastBuildDate>
-    <generator>Jekyll v3.7.0</generator>
+    <pubDate>Thu, 17 Sep 2020 21:23:31 +0200</pubDate>
+    <lastBuildDate>Thu, 17 Sep 2020 21:23:31 +0200</lastBuildDate>
+    <generator>Jekyll v3.7.4</generator>
     
       <item>
         <title>Version 2.5.0 released</title>
