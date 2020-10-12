@@ -6,8 +6,8 @@
 </description>
     <link>https://blockattack.net/</link>
     <atom:link href="https://blockattack.net/feed.xml" rel="self" type="application/rss+xml"/>
-    <pubDate>Mon, 12 Oct 2020 13:12:49 +0200</pubDate>
-    <lastBuildDate>Mon, 12 Oct 2020 13:12:49 +0200</lastBuildDate>
+    <pubDate>Mon, 12 Oct 2020 15:48:45 +0000</pubDate>
+    <lastBuildDate>Mon, 12 Oct 2020 15:48:45 +0000</lastBuildDate>
     <generator>Jekyll v3.7.0</generator>
     
       <item>
@@ -16,7 +16,7 @@
 
 &lt;p&gt;The primary news is that gamepad support has been improved. The game should not be controllable fully by gamepad. You can also add and remove gamepads while on the main menu.&lt;/p&gt;
 </description>
-        <pubDate>Sat, 26 Sep 2020 00:00:00 +0200</pubDate>
+        <pubDate>Sat, 26 Sep 2020 00:00:00 +0000</pubDate>
         <link>https://blockattack.net/2020/09/26/version_2_6_0_released.html</link>
         <guid isPermaLink="true">https://blockattack.net/2020/09/26/version_2_6_0_released.html</guid>
         
@@ -35,7 +35,7 @@
 
 &lt;p&gt;It is now also possible to run in permanent software renderer mode for people who have trouble with the hardware accelerated 2d.&lt;/p&gt;
 </description>
-        <pubDate>Sat, 25 May 2019 00:00:00 +0200</pubDate>
+        <pubDate>Sat, 25 May 2019 00:00:00 +0000</pubDate>
         <link>https://blockattack.net/2019/05/25/version_2_5_0_released.html</link>
         <guid isPermaLink="true">https://blockattack.net/2019/05/25/version_2_5_0_released.html</guid>
         
@@ -52,7 +52,7 @@
 
 &lt;iframe width=&quot;480&quot; height=&quot;360&quot; src=&quot;https://www.youtube.com/embed/xHxnGB2y_lg?rel=0&quot; frameborder=&quot;0&quot; allowfullscreen=&quot;&quot;&gt;&lt;/iframe&gt;
 </description>
-        <pubDate>Wed, 20 Mar 2019 00:00:00 +0100</pubDate>
+        <pubDate>Wed, 20 Mar 2019 00:00:00 +0000</pubDate>
         <link>https://blockattack.net/2019/03/20/a_video_from_2_4_0.html</link>
         <guid isPermaLink="true">https://blockattack.net/2019/03/20/a_video_from_2_4_0.html</guid>
         
@@ -72,7 +72,7 @@ The Windows version also has significantly improved unicode support.&lt;/p&gt;
 
 &lt;p&gt;I was going to create a trailer but video editing is still a skill I need to work on.&lt;/p&gt;
 </description>
-        <pubDate>Sun, 10 Mar 2019 00:00:00 +0100</pubDate>
+        <pubDate>Sun, 10 Mar 2019 00:00:00 +0000</pubDate>
         <link>https://blockattack.net/2019/03/10/version_2_4_0_released.html</link>
         <guid isPermaLink="true">https://blockattack.net/2019/03/10/version_2_4_0_released.html</guid>
         
@@ -89,7 +89,7 @@ The Windows version also has significantly improved unicode support.&lt;/p&gt;
 
 &lt;p&gt;The game controller has also been improved with and more strings are translatable.&lt;/p&gt;
 </description>
-        <pubDate>Sun, 01 Jul 2018 00:00:00 +0200</pubDate>
+        <pubDate>Sun, 01 Jul 2018 00:00:00 +0000</pubDate>
         <link>https://blockattack.net/2018/07/01/version_2_3_0_released.html</link>
         <guid isPermaLink="true">https://blockattack.net/2018/07/01/version_2_3_0_released.html</guid>
         
@@ -106,7 +106,7 @@ The Windows version also has significantly improved unicode support.&lt;/p&gt;
 
 &lt;p&gt;For Windows users with HighDPI displays the game now works “out of the box”.&lt;/p&gt;
 </description>
-        <pubDate>Sun, 20 May 2018 00:00:00 +0200</pubDate>
+        <pubDate>Sun, 20 May 2018 00:00:00 +0000</pubDate>
         <link>https://blockattack.net/2018/05/20/version_2_2_0_released.html</link>
         <guid isPermaLink="true">https://blockattack.net/2018/05/20/version_2_2_0_released.html</guid>
         
@@ -124,7 +124,7 @@ Until then I have a couple of screen shots:&lt;/p&gt;
 &lt;p&gt;&lt;a href=&quot;/images/2018_04_04_fonts/blockattack_menu_font.png&quot; data-lightbox=&quot;image-2018-04-05&quot; data-title=&quot;Menu with new font&quot;&gt;&lt;img src=&quot;/images/2018_04_04_fonts/blockattack_menu_font.thumb.png&quot; alt=&quot;Menu with new font&quot; border=&quot;0&quot; /&gt;&lt;/a&gt;
 &lt;a href=&quot;/images/2018_04_04_fonts/blockattack_2.2.0-snapshot-font.png&quot; data-lightbox=&quot;image-2018-04-05&quot; data-title=&quot;Game with new font&quot;&gt;&lt;img src=&quot;/images/2018_04_04_fonts/blockattack_2.2.0-snapshot-font.thumb.png&quot; alt=&quot;Game with new font&quot; border=&quot;0&quot; /&gt;&lt;/a&gt;&lt;/p&gt;
 </description>
-        <pubDate>Thu, 05 Apr 2018 00:00:00 +0200</pubDate>
+        <pubDate>Thu, 05 Apr 2018 00:00:00 +0000</pubDate>
         <link>https://blockattack.net/2018/04/05/work_in_progress__new_font_handling.html</link>
         <guid isPermaLink="true">https://blockattack.net/2018/04/05/work_in_progress__new_font_handling.html</guid>
         
@@ -137,7 +137,7 @@ Until then I have a couple of screen shots:&lt;/p&gt;
         <title>Linux build updated again</title>
         <description>&lt;p&gt;It is not that long ago that I updated the precompiled Linux build to be using SDL 2.0.6 instead of 2.0.5. Now I have another update. The compiled Linux build is now compiled on Ubuntu 12.04. This was a bit harder as Ubuntu 12.04 has reached end-of-life. However it was necessary as Ubuntu 14.04 is semi broken. At least the ubuntu:14.04 Docker image is broken. libsdl2-dev has been broken in 14.04 for months now. Even though I compiled my own version of SDL2 the build turned out to not work properly on other systems. Most notably the fullscreen support was broken. Well, that is now in the past.&lt;/p&gt;
 </description>
-        <pubDate>Sat, 28 Oct 2017 00:00:00 +0200</pubDate>
+        <pubDate>Sat, 28 Oct 2017 00:00:00 +0000</pubDate>
         <link>https://blockattack.net/2017/10/28/linux_build_updated_again.html</link>
         <guid isPermaLink="true">https://blockattack.net/2017/10/28/linux_build_updated_again.html</guid>
         
@@ -150,7 +150,7 @@ Until then I have a couple of screen shots:&lt;/p&gt;
         <title>Linux build updated</title>
         <description>&lt;p&gt;I have updated the standalone Lunux build to use SDL 2.0.6 instead of SDL 2.0.5. SDL 2.0.5 apparently has a problem with keyboard input that resulted in some keys being recorded double. This seems to only affect Ubuntu. I have updated the standalone package. While the new one has working keyboard support it appears that there still are some problem with the fullscreen support. It is weird as the version compiled against the distributions version of SDL2 works perfectly. I guess creating a standalone version is just problematic that way… still want to figure it out though.&lt;/p&gt;
 </description>
-        <pubDate>Sun, 15 Oct 2017 00:00:00 +0200</pubDate>
+        <pubDate>Sun, 15 Oct 2017 00:00:00 +0000</pubDate>
         <link>https://blockattack.net/2017/10/15/linux_build_updated.html</link>
         <guid isPermaLink="true">https://blockattack.net/2017/10/15/linux_build_updated.html</guid>
         
@@ -163,7 +163,7 @@ Until then I have a couple of screen shots:&lt;/p&gt;
         <title>Block Attack on itch.io</title>
         <description>&lt;p&gt;In the “old days” when you wanted to install a program then you downloaded it and installed it. Today that is not often the case. There are a large number of shops and download managers that takes care of most of the work. From a users point of view it is very convenient. So far I have not had Block Attack on any such platform. Most platforms are not geared towards independent developers or it was too cumbersome to setup. A couple of weeks ago I used the itch guide to create a standalone Linux version so the next step was logical: Add it to itch. I have now done so. I have tested it with the itch.io app and it works on both Linux and Windows. I’ll not stop distributing standalone copies but I believe you should have another option. Check it out &lt;a href=&quot;https://sago008.itch.io/blockattack&quot;&gt;here&lt;/a&gt;.&lt;/p&gt;
 </description>
-        <pubDate>Sat, 16 Sep 2017 00:00:00 +0200</pubDate>
+        <pubDate>Sat, 16 Sep 2017 00:00:00 +0000</pubDate>
         <link>https://blockattack.net/2017/09/16/block_attack_on_itch.html</link>
         <guid isPermaLink="true">https://blockattack.net/2017/09/16/block_attack_on_itch.html</guid>
         
