@@ -6,8 +6,8 @@
 </description>
     <link>https://blockattack.net/</link>
     <atom:link href="https://blockattack.net/feed.xml" rel="self" type="application/rss+xml"/>
-    <pubDate>Sat, 23 Oct 2021 20:41:09 +0000</pubDate>
-    <lastBuildDate>Sat, 23 Oct 2021 20:41:09 +0000</lastBuildDate>
+    <pubDate>Sat, 23 Oct 2021 20:43:21 +0000</pubDate>
+    <lastBuildDate>Sat, 23 Oct 2021 20:43:21 +0000</lastBuildDate>
     <generator>Jekyll v3.7.4</generator>
     
       <item>
@@ -20,8 +20,9 @@
   &lt;li&gt;Better software render&lt;/li&gt;
 &lt;/ul&gt;
 
-&lt;p&gt;The versions does now contain a changelog file, so getting the new features is easier than ever.
-Just check the &lt;a href=&quot;https://github.com/blockattack/blockattack-game/blob/v2.7.X/CHANGELOG.md&quot;&gt;CHANGELOG.md&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;The versions does now contain a changelog file, so getting the new features is easier than ever.&lt;/p&gt;
+
+&lt;p&gt;Just check the &lt;a href=&quot;https://github.com/blockattack/blockattack-game/blob/v2.7.X/CHANGELOG.md&quot;&gt;CHANGELOG.md&lt;/a&gt;&lt;/p&gt;
 </description>
         <pubDate>Sat, 23 Oct 2021 00:00:00 +0000</pubDate>
         <link>https://blockattack.net/2021/10/23/version_2_7_0_released.html</link>
