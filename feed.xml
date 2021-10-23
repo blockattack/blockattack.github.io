@@ -6,9 +6,31 @@
 </description>
     <link>https://blockattack.net/</link>
     <atom:link href="https://blockattack.net/feed.xml" rel="self" type="application/rss+xml"/>
-    <pubDate>Thu, 05 Aug 2021 09:04:53 +0000</pubDate>
-    <lastBuildDate>Thu, 05 Aug 2021 09:04:53 +0000</lastBuildDate>
+    <pubDate>Sat, 23 Oct 2021 20:41:09 +0000</pubDate>
+    <lastBuildDate>Sat, 23 Oct 2021 20:41:09 +0000</lastBuildDate>
     <generator>Jekyll v3.7.4</generator>
+    
+      <item>
+        <title>Version 2.7.0 released</title>
+        <description>&lt;p&gt;Version 2.7.0 has been released.&lt;/p&gt;
+
+&lt;p&gt;Mentionable news:&lt;/p&gt;
+&lt;ul&gt;
+  &lt;li&gt;Volume control&lt;/li&gt;
+  &lt;li&gt;Better software render&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;The versions does now contain a changelog file, so getting the new features is easier than ever.
+Just check the &lt;a href=&quot;https://github.com/blockattack/blockattack-game/blob/v2.7.X/CHANGELOG.md&quot;&gt;CHANGELOG.md&lt;/a&gt;&lt;/p&gt;
+</description>
+        <pubDate>Sat, 23 Oct 2021 00:00:00 +0000</pubDate>
+        <link>https://blockattack.net/2021/10/23/version_2_7_0_released.html</link>
+        <guid isPermaLink="true">https://blockattack.net/2021/10/23/version_2_7_0_released.html</guid>
+        
+        
+        <category>news</category>
+        
+      </item>
     
       <item>
         <title>Version 2.6.0 released</title>
@@ -153,19 +175,6 @@ Until then I have a couple of screen shots:&lt;/p&gt;
         <pubDate>Sun, 15 Oct 2017 00:00:00 +0000</pubDate>
         <link>https://blockattack.net/2017/10/15/linux_build_updated.html</link>
         <guid isPermaLink="true">https://blockattack.net/2017/10/15/linux_build_updated.html</guid>
-        
-        
-        <category>news</category>
-        
-      </item>
-    
-      <item>
-        <title>Block Attack on itch.io</title>
-        <description>&lt;p&gt;In the “old days” when you wanted to install a program then you downloaded it and installed it. Today that is not often the case. There are a large number of shops and download managers that takes care of most of the work. From a users point of view it is very convenient. So far I have not had Block Attack on any such platform. Most platforms are not geared towards independent developers or it was too cumbersome to setup. A couple of weeks ago I used the itch guide to create a standalone Linux version so the next step was logical: Add it to itch. I have now done so. I have tested it with the itch.io app and it works on both Linux and Windows. I’ll not stop distributing standalone copies but I believe you should have another option. Check it out &lt;a href=&quot;https://sago008.itch.io/blockattack&quot;&gt;here&lt;/a&gt;.&lt;/p&gt;
-</description>
-        <pubDate>Sat, 16 Sep 2017 00:00:00 +0000</pubDate>
-        <link>https://blockattack.net/2017/09/16/block_attack_on_itch.html</link>
-        <guid isPermaLink="true">https://blockattack.net/2017/09/16/block_attack_on_itch.html</guid>
         
         
         <category>news</category>
