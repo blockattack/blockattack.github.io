@@ -6,9 +6,27 @@
 </description>
     <link>https://blockattack.net/</link>
     <atom:link href="https://blockattack.net/feed.xml" rel="self" type="application/rss+xml"/>
-    <pubDate>Sat, 23 Oct 2021 20:43:21 +0000</pubDate>
-    <lastBuildDate>Sat, 23 Oct 2021 20:43:21 +0000</lastBuildDate>
+    <pubDate>Fri, 18 Feb 2022 12:42:58 +0000</pubDate>
+    <lastBuildDate>Fri, 18 Feb 2022 12:42:58 +0000</lastBuildDate>
     <generator>Jekyll v3.7.4</generator>
+    
+      <item>
+        <title>Version 2.8.0 released</title>
+        <description>&lt;p&gt;A new version has been released.&lt;/p&gt;
+
+&lt;p&gt;From a gameplay perspective the changes are minor. Most improvements are internal.
+Library versions are updated to ensure continued compatibility with new systems.&lt;/p&gt;
+
+&lt;p&gt;Just check the &lt;a href=&quot;https://github.com/blockattack/blockattack-game/blob/v2.8.X/CHANGELOG.md&quot;&gt;CHANGELOG.md&lt;/a&gt;&lt;/p&gt;
+</description>
+        <pubDate>Fri, 18 Feb 2022 00:00:00 +0000</pubDate>
+        <link>https://blockattack.net/2022/02/18/version_2_8_0_released.html</link>
+        <guid isPermaLink="true">https://blockattack.net/2022/02/18/version_2_8_0_released.html</guid>
+        
+        
+        <category>news</category>
+        
+      </item>
     
       <item>
         <title>Version 2.7.0 released</title>
@@ -163,19 +181,6 @@ Until then I have a couple of screen shots:&lt;/p&gt;
         <pubDate>Sat, 28 Oct 2017 00:00:00 +0000</pubDate>
         <link>https://blockattack.net/2017/10/28/linux_build_updated_again.html</link>
         <guid isPermaLink="true">https://blockattack.net/2017/10/28/linux_build_updated_again.html</guid>
-        
-        
-        <category>news</category>
-        
-      </item>
-    
-      <item>
-        <title>Linux build updated</title>
-        <description>&lt;p&gt;I have updated the standalone Lunux build to use SDL 2.0.6 instead of SDL 2.0.5. SDL 2.0.5 apparently has a problem with keyboard input that resulted in some keys being recorded double. This seems to only affect Ubuntu. I have updated the standalone package. While the new one has working keyboard support it appears that there still are some problem with the fullscreen support. It is weird as the version compiled against the distributions version of SDL2 works perfectly. I guess creating a standalone version is just problematic that way… still want to figure it out though.&lt;/p&gt;
-</description>
-        <pubDate>Sun, 15 Oct 2017 00:00:00 +0000</pubDate>
-        <link>https://blockattack.net/2017/10/15/linux_build_updated.html</link>
-        <guid isPermaLink="true">https://blockattack.net/2017/10/15/linux_build_updated.html</guid>
         
         
         <category>news</category>
