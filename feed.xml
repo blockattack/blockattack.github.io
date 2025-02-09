@@ -6,9 +6,28 @@
 </description>
     <link>https://blockattack.net/</link>
     <atom:link href="https://blockattack.net/feed.xml" rel="self" type="application/rss+xml"/>
-    <pubDate>Thu, 09 May 2024 19:22:37 +0000</pubDate>
-    <lastBuildDate>Thu, 09 May 2024 19:22:37 +0000</lastBuildDate>
-    <generator>Jekyll v4.3.3</generator>
+    <pubDate>Sun, 09 Feb 2025 22:56:07 +0000</pubDate>
+    <lastBuildDate>Sun, 09 Feb 2025 22:56:07 +0000</lastBuildDate>
+    <generator>Jekyll v4.3.4</generator>
+    
+      <item>
+        <title>Version 2.9.1 released</title>
+        <description>&lt;p&gt;There is a small bugfix release for 2.9.X. It turned out that the d-pad did not work crectly when using gamepads.&lt;/p&gt;
+
+&lt;p&gt;I usually use a Logitech F710 and while testing I did not notice the issue as it has a “mode select” and the dpad worked if it was in swapped mode.&lt;/p&gt;
+
+&lt;p&gt;Recently I connected a PlayStation 4 controller and noticed that the d-pad did not work. This relase fixes it.&lt;/p&gt;
+
+&lt;p&gt;The PS controller is actually quite good as the d-pad is much higher quality than the F710 or an Xbox360 controller.&lt;/p&gt;
+</description>
+        <pubDate>Sun, 09 Feb 2025 00:00:00 +0000</pubDate>
+        <link>https://blockattack.net/2025/02/09/version_2_9_1_released.html</link>
+        <guid isPermaLink="true">https://blockattack.net/2025/02/09/version_2_9_1_released.html</guid>
+        
+        
+        <category>news</category>
+        
+      </item>
     
       <item>
         <title>Version 2.9.0 released</title>
@@ -66,19 +85,6 @@ Library versions are updated to ensure continued compatibility with new systems.
         <pubDate>Sat, 23 Oct 2021 00:00:00 +0000</pubDate>
         <link>https://blockattack.net/2021/10/23/version_2_7_0_released.html</link>
         <guid isPermaLink="true">https://blockattack.net/2021/10/23/version_2_7_0_released.html</guid>
-        
-        
-        <category>news</category>
-        
-      </item>
-    
-      <item>
-        <title>Translations</title>
-        <description>
-</description>
-        <pubDate>Thu, 05 Nov 2020 00:00:00 +0000</pubDate>
-        <link>https://blockattack.net/2020/11/05/translations.html</link>
-        <guid isPermaLink="true">https://blockattack.net/2020/11/05/translations.html</guid>
         
         
         <category>news</category>
