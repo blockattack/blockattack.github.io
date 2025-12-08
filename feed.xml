@@ -2,27 +2,27 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Block Attack - Rise of the Blocks</title>
-    <description>Block Attack - Rise of the Blocks is a puzzle/blockfall game inspired by Tetris Attack (Panel de Pon in Japan) for the SNES. The game is pretty action packed for a puzzle game :-)
+    <description>Block Attack - Rise of the Blocks is a puzzle/blockfall game inspired by Tetris Attack (Panel de Pon in Japan) for the SNES. The game is pretty action-packed for a puzzle game :-)
 </description>
     <link>https://blockattack.net/</link>
     <atom:link href="https://blockattack.net/feed.xml" rel="self" type="application/rss+xml"/>
-    <pubDate>Thu, 16 Oct 2025 19:26:48 +0000</pubDate>
-    <lastBuildDate>Thu, 16 Oct 2025 19:26:48 +0000</lastBuildDate>
+    <pubDate>Mon, 08 Dec 2025 18:13:47 +0000</pubDate>
+    <lastBuildDate>Mon, 08 Dec 2025 18:13:47 +0000</lastBuildDate>
     <generator>Jekyll v4.3.3</generator>
     
       <item>
         <title>Version 2.10.0 released</title>
         <description>&lt;p&gt;A new version has just dropped.&lt;/p&gt;
 
-&lt;p&gt;The most obvios addition is par-scores in Stage Clear. Rather than just surviving you can now also try to beat my score. All scores are first try so they should be manageble.&lt;/p&gt;
+&lt;p&gt;The most obvious addition is par-scores in Stage Clear.. Rather than just surviving, you can now also try to beat my score. All scores are first try, so they should be manageable.&lt;/p&gt;
 
-&lt;p&gt;Another new feature is the build in puzzle editor. It can be started with &lt;code class=&quot;language-plaintext highlighter-rouge&quot;&gt;--puzzle-editor&lt;/code&gt;. It is not super user friendly but it works.&lt;/p&gt;
+&lt;p&gt;Another new feature is the built-in puzzle editor. It can be started with &lt;code class=&quot;language-plaintext highlighter-rouge&quot;&gt;--puzzle-editor&lt;/code&gt;. It is not super user-friendly, but it works.&lt;/p&gt;
 
-&lt;p&gt;There are also an early version of a sprite editor that can be started with &lt;code class=&quot;language-plaintext highlighter-rouge&quot;&gt;--editor&lt;/code&gt;.&lt;/p&gt;
+&lt;p&gt;There is also an early version of a sprite editor that can be started with &lt;code class=&quot;language-plaintext highlighter-rouge&quot;&gt;--editor&lt;/code&gt;.&lt;/p&gt;
 
-&lt;p&gt;The whole UI is build using ImGui. I hope to also get a working themes editor at some point in the future.&lt;/p&gt;
+&lt;p&gt;The whole UI is built using ImGui. I hope to also get a working themes editor at some point in the future.&lt;/p&gt;
 
-&lt;p&gt;&lt;a href=&quot;/images/2025_10_16_puzzle_editor/blockattack_puzzle_editor.png&quot; data-lightbox=&quot;image-2025-10-16&quot; data-title=&quot;The puzzle editor&quot;&gt;&lt;img src=&quot;/images/2025_10_16_puzzle_editor/blockattack_puzzle_editor.thump.png&quot; alt=&quot;Puzzle Editor 2.10.0&quot; border=&quot;0&quot; /&gt;&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;&lt;a href=&quot;/images/2025_10_16_puzzle_editor/blockattack_puzzle_editor.png&quot; data-lightbox=&quot;image-2025-10-16&quot; data-title=&quot;The puzzle editor&quot;&gt;&lt;img src=&quot;/images/2025_10_16_puzzle_editor/blockattack_puzzle_editor.thumb.png&quot; alt=&quot;Puzzle Editor 2.10.0&quot; border=&quot;0&quot; /&gt;&lt;/a&gt;&lt;/p&gt;
 </description>
         <pubDate>Thu, 16 Oct 2025 00:00:00 +0000</pubDate>
         <link>https://blockattack.net/2025/10/16/version_2_10_0_released.html</link>
@@ -35,11 +35,11 @@
     
       <item>
         <title>Version 2.9.1 released</title>
-        <description>&lt;p&gt;There is a small bugfix release for 2.9.X. It turned out that the d-pad did not work crectly when using gamepads.&lt;/p&gt;
+        <description>&lt;p&gt;There is a small bugfix release for 2.9.X. It turned out that the d-pad did not work correctly when using gamepads.&lt;/p&gt;
 
 &lt;p&gt;I usually use a Logitech F710 and while testing I did not notice the issue as it has a “mode select” and the dpad worked if it was in swapped mode.&lt;/p&gt;
 
-&lt;p&gt;Recently I connected a PlayStation 4 controller and noticed that the d-pad did not work. This relase fixes it.&lt;/p&gt;
+&lt;p&gt;Recently I connected a PlayStation 4 controller and noticed that the d-pad did not work. This release fixes it.&lt;/p&gt;
 
 &lt;p&gt;The PS controller is actually quite good as the d-pad is much higher quality than the F710 or an Xbox360 controller.&lt;/p&gt;
 </description>
@@ -54,13 +54,13 @@
     
       <item>
         <title>Version 2.9.0 released</title>
-        <description>&lt;p&gt;After a long time a new version is finally here.&lt;/p&gt;
+        <description>&lt;p&gt;After a long time, a new version is finally here.&lt;/p&gt;
 
-&lt;p&gt;It is now possible to select 5 block variant in the configuration. This makes chaining easier. Currently not avaible in Stage Clear.&lt;/p&gt;
+&lt;p&gt;It is now possible to select the 5 block variant in the configuration. This makes chaining easier. Currently not available in Stage Clear.&lt;/p&gt;
 
-&lt;p&gt;This version also introduces a new way of handling themes. It is now possible to mix and match in the configuration menu. At the moment only the background, board background, and the frame can be customozed.&lt;/p&gt;
+&lt;p&gt;This version also introduces a new way of handling themes. It is now possible to mix and match in the configuration menu. At the moment only the background, board background, and the frame can be customized.&lt;/p&gt;
 
-&lt;p&gt;Thanks to sanchez-gayatri the game is now also playable in swedish.&lt;/p&gt;
+&lt;p&gt;Thanks to sanchez-gayatri the game is now also playable in Swedish.&lt;/p&gt;
 
 &lt;p&gt;Just check the &lt;a href=&quot;https://github.com/blockattack/blockattack-game/blob/v2.9.X/CHANGELOG.md&quot;&gt;CHANGELOG.md&lt;/a&gt;&lt;/p&gt;
 </description>
@@ -77,7 +77,7 @@
         <title>Version 2.8.0 released</title>
         <description>&lt;p&gt;A new version has been released.&lt;/p&gt;
 
-&lt;p&gt;From a gameplay perspective the changes are minor. Most improvements are internal.
+&lt;p&gt;From a gameplay perspective, the changes are minor. Most improvements are internal.
 Library versions are updated to ensure continued compatibility with new systems.&lt;/p&gt;
 
 &lt;p&gt;Just check the &lt;a href=&quot;https://github.com/blockattack/blockattack-game/blob/v2.8.X/CHANGELOG.md&quot;&gt;CHANGELOG.md&lt;/a&gt;&lt;/p&gt;
@@ -95,32 +95,19 @@ Library versions are updated to ensure continued compatibility with new systems.
         <title>Version 2.7.0 released</title>
         <description>&lt;p&gt;Version 2.7.0 has been released.&lt;/p&gt;
 
-&lt;p&gt;Mentionable news:&lt;/p&gt;
+&lt;p&gt;Notable news:&lt;/p&gt;
 &lt;ul&gt;
   &lt;li&gt;Volume control&lt;/li&gt;
   &lt;li&gt;Better software render&lt;/li&gt;
 &lt;/ul&gt;
 
-&lt;p&gt;The versions does now contain a changelog file, so getting the new features is easier than ever.&lt;/p&gt;
+&lt;p&gt;The version now contains a changelog file, so getting the new features is easier than ever.&lt;/p&gt;
 
 &lt;p&gt;Just check the &lt;a href=&quot;https://github.com/blockattack/blockattack-game/blob/v2.7.X/CHANGELOG.md&quot;&gt;CHANGELOG.md&lt;/a&gt;&lt;/p&gt;
 </description>
         <pubDate>Sat, 23 Oct 2021 00:00:00 +0000</pubDate>
         <link>https://blockattack.net/2021/10/23/version_2_7_0_released.html</link>
         <guid isPermaLink="true">https://blockattack.net/2021/10/23/version_2_7_0_released.html</guid>
-        
-        
-        <category>news</category>
-        
-      </item>
-    
-      <item>
-        <title>Translations</title>
-        <description>
-</description>
-        <pubDate>Thu, 05 Nov 2020 00:00:00 +0000</pubDate>
-        <link>https://blockattack.net/2020/11/05/translations.html</link>
-        <guid isPermaLink="true">https://blockattack.net/2020/11/05/translations.html</guid>
         
         
         <category>news</category>
@@ -192,6 +179,23 @@ The Windows version also has significantly improved unicode support.&lt;/p&gt;
         <pubDate>Sun, 10 Mar 2019 00:00:00 +0000</pubDate>
         <link>https://blockattack.net/2019/03/10/version_2_4_0_released.html</link>
         <guid isPermaLink="true">https://blockattack.net/2019/03/10/version_2_4_0_released.html</guid>
+        
+        
+        <category>news</category>
+        
+      </item>
+    
+      <item>
+        <title>Version 2.3.0 released</title>
+        <description>&lt;p&gt;Version 2.3.0 has been released! Read the &lt;a href=&quot;https://raw.githubusercontent.com/blockattack/blockattack-game/v2.3.X/ReleaseNotes-2.3.0.txt&quot;&gt;release note&lt;/a&gt; and &lt;a href=&quot;/download/&quot;&gt;download it&lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;The game now remember the window size when running in windowed mode&lt;/p&gt;
+
+&lt;p&gt;The game controller has also been improved with and more strings are translatable.&lt;/p&gt;
+</description>
+        <pubDate>Sun, 01 Jul 2018 00:00:00 +0000</pubDate>
+        <link>https://blockattack.net/2018/07/01/version_2_3_0_released.html</link>
+        <guid isPermaLink="true">https://blockattack.net/2018/07/01/version_2_3_0_released.html</guid>
         
         
         <category>news</category>
