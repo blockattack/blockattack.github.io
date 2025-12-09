@@ -6,15 +6,15 @@
 </description>
     <link>https://blockattack.net/</link>
     <atom:link href="https://blockattack.net/feed.xml" rel="self" type="application/rss+xml"/>
-    <pubDate>Mon, 08 Dec 2025 18:13:47 +0000</pubDate>
-    <lastBuildDate>Mon, 08 Dec 2025 18:13:47 +0000</lastBuildDate>
+    <pubDate>Tue, 09 Dec 2025 19:04:04 +0000</pubDate>
+    <lastBuildDate>Tue, 09 Dec 2025 19:04:04 +0000</lastBuildDate>
     <generator>Jekyll v4.3.3</generator>
     
       <item>
         <title>Version 2.10.0 released</title>
         <description>&lt;p&gt;A new version has just dropped.&lt;/p&gt;
 
-&lt;p&gt;The most obvious addition is par-scores in Stage Clear.. Rather than just surviving, you can now also try to beat my score. All scores are first try, so they should be manageable.&lt;/p&gt;
+&lt;p&gt;The most obvious addition is par-scores in Stage Clear. Rather than just surviving, you can now also try to beat my score. All scores are first try, so they should be manageable.&lt;/p&gt;
 
 &lt;p&gt;Another new feature is the built-in puzzle editor. It can be started with &lt;code class=&quot;language-plaintext highlighter-rouge&quot;&gt;--puzzle-editor&lt;/code&gt;. It is not super user-friendly, but it works.&lt;/p&gt;
 
@@ -116,9 +116,9 @@ Library versions are updated to ensure continued compatibility with new systems.
     
       <item>
         <title>Version 2.6.0 released</title>
-        <description>&lt;p&gt;Version 2.5.0 has been released! Read the &lt;a href=&quot;https://raw.githubusercontent.com/blockattack/blockattack-game/v2.6.X/ReleaseNotes-2.6.0.txt&quot;&gt;release note&lt;/a&gt; and &lt;a href=&quot;/download/&quot;&gt;download it&lt;/a&gt;&lt;/p&gt;
+        <description>&lt;p&gt;Version 2.6.0 has been released! Read the &lt;a href=&quot;https://raw.githubusercontent.com/blockattack/blockattack-game/v2.6.X/ReleaseNotes-2.6.0.txt&quot;&gt;release note&lt;/a&gt; and &lt;a href=&quot;/download/&quot;&gt;download it&lt;/a&gt;&lt;/p&gt;
 
-&lt;p&gt;The primary news is that gamepad support has been improved. The game should not be controllable fully by gamepad. You can also add and remove gamepads while on the main menu.&lt;/p&gt;
+&lt;p&gt;The primary news is that gamepad support has been improved. The game should now be controllable fully by gamepad. You can also add and remove gamepads while on the main menu.&lt;/p&gt;
 </description>
         <pubDate>Sat, 26 Sep 2020 00:00:00 +0000</pubDate>
         <link>https://blockattack.net/2020/09/26/version_2_6_0_released.html</link>
@@ -133,9 +133,9 @@ Library versions are updated to ensure continued compatibility with new systems.
         <title>Version 2.5.0 released</title>
         <description>&lt;p&gt;Version 2.5.0 has been released! Read the &lt;a href=&quot;https://raw.githubusercontent.com/blockattack/blockattack-game/v2.5.X/ReleaseNotes-2.5.0.txt&quot;&gt;release note&lt;/a&gt; and &lt;a href=&quot;/download/&quot;&gt;download it&lt;/a&gt;&lt;/p&gt;
 
-&lt;p&gt;News this time includes widescreen support. Not that it makes much value, at the game uses a vertical playing field. However in fullscreen you no longer get the black bars in the side.&lt;/p&gt;
+&lt;p&gt;News this time includes widescreen support. Not that it adds much value, as the game uses a vertical playing field. However in fullscreen you no longer get the black bars in the side.&lt;/p&gt;
 
-&lt;p&gt;Previous versions did also suffer for a bug that meant that files was always loaded in reverse order.&lt;/p&gt;
+&lt;p&gt;Previous versions also suffered from a bug that meant that files were always loaded in reverse order.&lt;/p&gt;
 
 &lt;p&gt;It is now also possible to run in permanent software renderer mode for people who have trouble with the hardware accelerated 2d.&lt;/p&gt;
 </description>
@@ -189,9 +189,9 @@ The Windows version also has significantly improved unicode support.&lt;/p&gt;
         <title>Version 2.3.0 released</title>
         <description>&lt;p&gt;Version 2.3.0 has been released! Read the &lt;a href=&quot;https://raw.githubusercontent.com/blockattack/blockattack-game/v2.3.X/ReleaseNotes-2.3.0.txt&quot;&gt;release note&lt;/a&gt; and &lt;a href=&quot;/download/&quot;&gt;download it&lt;/a&gt;&lt;/p&gt;
 
-&lt;p&gt;The game now remember the window size when running in windowed mode&lt;/p&gt;
+&lt;p&gt;The game now remembers the window size when running in windowed mode&lt;/p&gt;
 
-&lt;p&gt;The game controller has also been improved with and more strings are translatable.&lt;/p&gt;
+&lt;p&gt;The game controller has also been improved and more strings are translatable.&lt;/p&gt;
 </description>
         <pubDate>Sun, 01 Jul 2018 00:00:00 +0000</pubDate>
         <link>https://blockattack.net/2018/07/01/version_2_3_0_released.html</link>
