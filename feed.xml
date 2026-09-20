@@ -6,9 +6,28 @@
 </description>
     <link>https://blockattack.net/</link>
     <atom:link href="https://blockattack.net/feed.xml" rel="self" type="application/rss+xml"/>
-    <pubDate>Tue, 09 Dec 2025 19:04:04 +0000</pubDate>
-    <lastBuildDate>Tue, 09 Dec 2025 19:04:04 +0000</lastBuildDate>
+    <pubDate>Sun, 20 Sep 2026 09:36:41 +0000</pubDate>
+    <lastBuildDate>Sun, 20 Sep 2026 09:36:41 +0000</lastBuildDate>
     <generator>Jekyll v4.3.3</generator>
+    
+      <item>
+        <title>Web build available</title>
+        <description>&lt;p&gt;There is now a web build of Block Attack - Rise of the Blocks. It can be found on the &lt;a href=&quot;https://sago008.itch.io/blockattack&quot;&gt;Itch page&lt;/a&gt; (just click “Run game”).&lt;/p&gt;
+
+&lt;p&gt;I have wanted to create an Emscripten build for some time but before learning about ASYNCIFY it was too invasive. With Asyncify only minimal changes were needed. Boost had to be cut out.&lt;/p&gt;
+
+&lt;p&gt;I need to revisit the “sudo” security fix in &lt;a href=&quot;https://github.com/sago007/PlatformFolders&quot;&gt;PlatformFolders&lt;/a&gt;. Emscripten runs as “root” so the “sudo” protection is triggered. Ubuntu fixed the security bug years ago so the fix is no longer needed.&lt;/p&gt;
+
+&lt;p&gt;The web build will allow people to test out the game before downloading, which is important in this day and age.&lt;/p&gt;
+</description>
+        <pubDate>Sun, 20 Sep 2026 00:00:00 +0000</pubDate>
+        <link>https://blockattack.net/2026/09/20/web_build_available.html</link>
+        <guid isPermaLink="true">https://blockattack.net/2026/09/20/web_build_available.html</guid>
+        
+        
+        <category>news</category>
+        
+      </item>
     
       <item>
         <title>Version 2.10.0 released</title>
@@ -179,23 +198,6 @@ The Windows version also has significantly improved unicode support.&lt;/p&gt;
         <pubDate>Sun, 10 Mar 2019 00:00:00 +0000</pubDate>
         <link>https://blockattack.net/2019/03/10/version_2_4_0_released.html</link>
         <guid isPermaLink="true">https://blockattack.net/2019/03/10/version_2_4_0_released.html</guid>
-        
-        
-        <category>news</category>
-        
-      </item>
-    
-      <item>
-        <title>Version 2.3.0 released</title>
-        <description>&lt;p&gt;Version 2.3.0 has been released! Read the &lt;a href=&quot;https://raw.githubusercontent.com/blockattack/blockattack-game/v2.3.X/ReleaseNotes-2.3.0.txt&quot;&gt;release note&lt;/a&gt; and &lt;a href=&quot;/download/&quot;&gt;download it&lt;/a&gt;&lt;/p&gt;
-
-&lt;p&gt;The game now remembers the window size when running in windowed mode&lt;/p&gt;
-
-&lt;p&gt;The game controller has also been improved and more strings are translatable.&lt;/p&gt;
-</description>
-        <pubDate>Sun, 01 Jul 2018 00:00:00 +0000</pubDate>
-        <link>https://blockattack.net/2018/07/01/version_2_3_0_released.html</link>
-        <guid isPermaLink="true">https://blockattack.net/2018/07/01/version_2_3_0_released.html</guid>
         
         
         <category>news</category>
